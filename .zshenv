@@ -21,7 +21,7 @@ export XINITRC="$XDG_CONFIG_HOME/X11/xinitrc"
 # Store .Xauthority in /run/user/$UID
 export XAUTHORITY="$XDG_RUNTIME_DIR/Xauthority"
 
-#
+# Store .npm in ~/.config/npm/
 export NPM_CONFIG_USERCONFIG="$XDG_CONFIG_HOME/npm/npmrc"
 
 # If you come from bash you might have to change your $PATH.
