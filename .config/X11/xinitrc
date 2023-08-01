@@ -1,5 +1,0 @@
-setxkbmap it
-xset r rate 270 50
-xrandr --output Virtual-1 --mode 1280x960
-i3lock
-exec dwm
