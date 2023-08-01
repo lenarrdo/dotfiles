@@ -15,5 +15,8 @@ export XDG_CONFIG_DIRS="/etc/xdg/"
 export EDITOR="nvim"
 export TERMINAL="alacritty"
 
+# Run firefox under wayland
+export MOZ_ENABLE_WAYLAND=1
+
 # Store .npm in ~/.config/npm/
 export NPM_CONFIG_USERCONFIG="$XDG_CONFIG_HOME/npm/npmrc"
