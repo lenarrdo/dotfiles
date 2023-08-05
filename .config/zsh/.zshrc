@@ -12,6 +12,18 @@ compinit
 # Aliases
 alias la="ls -Al"
 alias neofetch="neofetch --source /home/leonardo/.config/neofetch/arch.txt"
+alias gs="git status"
+alias ga="git add"
+alias gp="git push"
+alias n="nnn"
 
+# functions
+mkcd () {
+  mkdir -p $1 && cd $1
+}
+
+gc () {
+  git commit -m "$1"
+}
 # Enable starship shell
 eval "$(starship init zsh)"
