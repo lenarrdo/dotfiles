@@ -1,0 +1,3670 @@
+[keyboard-bqn]
+Description="Keyboard - BQN"
+Language=en
+Label=bqn
+
+[keyboard-apl]
+Description="Keyboard - APL"
+Language=en
+Label=apl
+
+[keyboard-apl-dyalog]
+Description="Keyboard - APL - Simboli APL (Dyalog APL)"
+Language=en
+Label="dlg (dyalog)"
+
+[keyboard-apl-sax]
+Description="Keyboard - APL - Simboli APL (SAX, Sharp APL per Unix)"
+Language=en
+Label=sax
+
+[keyboard-apl-unified]
+Description="Keyboard - APL - Simboli APL (unificati)"
+Language=en
+Label="ufd (unified)"
+
+[keyboard-apl-apl2]
+Description="Keyboard - APL - Simboli APL (IBM APL2)"
+Language=en
+Label=apl2
+
+[keyboard-apl-aplplusII]
+Description="Keyboard - APL - simboli APL (Manugistics APL*PLUS II)"
+Language=en
+Label="aplII (aplplusII)"
+
+[keyboard-apl-aplx]
+Description="Keyboard - APL - simboli APL (APLX unificata)"
+Language=en
+Label=aplx
+
+[keyboard-tz]
+Description="Keyboard - Swahili (Tanzania)"
+Language=sw
+Label=sw
+
+[keyboard-brai]
+Description="Keyboard - Braille"
+Language=
+Label=brl
+
+[keyboard-brai-left_hand]
+Description="Keyboard - Braille - Braille (mancina)"
+Language=
+Label="brai (left_hand)"
+
+[keyboard-brai-left_hand_invert]
+Description="Keyboard - Braille - Braille (pollice mancino invertito)"
+Language=
+Label="brai (left_hand_invert)"
+
+[keyboard-brai-right_hand]
+Description="Keyboard - Braille - Braille (destrorsa)"
+Language=
+Label="brai (right_hand)"
+
+[keyboard-brai-right_hand_invert]
+Description="Keyboard - Braille - Braille (pollice destrorso invertito)"
+Language=
+Label="brai (right_hand_invert)"
+
+[keyboard-et]
+Description="Keyboard - Amarica"
+Language=am
+Label=am
+
+[keyboard-tm]
+Description="Keyboard - Turkmena"
+Language=tk
+Label=tk
+
+[keyboard-tm-alt]
+Description="Keyboard - Turkmena - Turkmena (Alt-Q)"
+Language=tk
+Label="tm (alt)"
+
+[keyboard-np]
+Description="Keyboard - Nepalese"
+Language=ne
+Label=ne
+
+[keyboard-epo]
+Description="Keyboard - Esperanto"
+Language=eo
+Label=eo
+
+[keyboard-epo-legacy]
+Description="Keyboard - Esperanto - Esperanto (vecchia maniera)"
+Language=eo
+Label="epo (legacy)"
+
+[keyboard-eu]
+Description="Keyboard - tasto Euro (USA)"
+Language=ca
+Label=eu
+
+[keyboard-za]
+Description="Keyboard - Inglese (Sud Africa)"
+Language=en
+Label=en
+
+[keyboard-bw]
+Description="Keyboard - Tswana"
+Language=tn
+Label=tn
+
+[keyboard-kr]
+Description="Keyboard - Coreana"
+Language=ko
+Label=ko
+
+[keyboard-kr-kr104]
+Description="Keyboard - Coreana - Coreana (101/104 tasti compatibile)"
+Language=ko
+Label="kr (kr104)"
+
+[keyboard-kr-sun_type6]
+Description="Keyboard - Coreana - Coreana (Sun Type 6/7)"
+Language=ko
+Label="kr (sun_type6)"
+
+[keyboard-gb]
+Description="Keyboard - Inglese (UK)"
+Language=en
+Label=en
+
+[keyboard-gb-extd]
+Description="Keyboard - Inglese (UK) - Inglese (UK, estesa, Windows)"
+Language=en
+Label="gb (extd)"
+
+[keyboard-gb-intl]
+Description="Keyboard - Inglese (UK) - Inglese (UK, intl., con tasti muti)"
+Language=en
+Label="gb (intl)"
+
+[keyboard-gb-dvorak]
+Description="Keyboard - Inglese (UK) - Inglese (UK, Dvorak)"
+Language=en
+Label="gb (dvorak)"
+
+[keyboard-gb-dvorakukp]
+Description="Keyboard - Inglese (UK) - Inglese (UK, Dvorak, con punteggiatura UK)"
+Language=en
+Label="gb (dvorakukp)"
+
+[keyboard-gb-mac]
+Description="Keyboard - Inglese (UK) - Inglese (UK, Macintosh)"
+Language=en
+Label="gb (mac)"
+
+[keyboard-gb-mac_intl]
+Description="Keyboard - Inglese (UK) - Inglese (UK, Macintosh, intl.)"
+Language=en
+Label="gb (mac_intl)"
+
+[keyboard-gb-colemak]
+Description="Keyboard - Inglese (UK) - Inglese (UK, Colemak)"
+Language=en
+Label="gb (colemak)"
+
+[keyboard-gb-colemak_dh]
+Description="Keyboard - Inglese (UK) - English (UK, Colemak-DH)"
+Language=en
+Label="gb (colemak_dh)"
+
+[keyboard-gb-pl]
+Description="Keyboard - Inglese (UK) - Polacca (tastiera britannica)"
+Language=pl
+Label=pl
+
+[keyboard-gb-gla]
+Description="Keyboard - Inglese (UK) - Scottish Gaelic"
+Language=en
+Label="gd (gla)"
+
+[keyboard-gb-sun_type6]
+Description="Keyboard - Inglese (UK) - Inglese (UK, Sun Type 6/7)"
+Language=en
+Label="gb (sun_type6)"
+
+[keyboard-ua]
+Description="Keyboard - Ucraina"
+Language=uk
+Label=uk
+
+[keyboard-ua-phonetic]
+Description="Keyboard - Ucraina - Ucraina (fonetica)"
+Language=uk
+Label="ua (phonetic)"
+
+[keyboard-ua-typewriter]
+Description="Keyboard - Ucraina - Ucraina (macchina per scrivere)"
+Language=uk
+Label="ua (typewriter)"
+
+[keyboard-ua-winkeys]
+Description="Keyboard - Ucraina - Ucraina (Windows)"
+Language=uk
+Label="ua (winkeys)"
+
+[keyboard-ua-macOS]
+Description="Keyboard - Ucraina - Ukrainian (macOS)"
+Language=uk
+Label="ua (macOS)"
+
+[keyboard-ua-legacy]
+Description="Keyboard - Ucraina - Ucraina (vecchia maniera)"
+Language=uk
+Label="ua (legacy)"
+
+[keyboard-ua-homophonic]
+Description="Keyboard - Ucraina - Ucraina (omofonica)"
+Language=uk
+Label="ua (homophonic)"
+
+[keyboard-ua-crh]
+Description="Keyboard - Ucraina - Tatar crimea (turca Q)"
+Language=crh
+Label=crh
+
+[keyboard-ua-crh_f]
+Description="Keyboard - Ucraina - Tatar crimea (turca F)"
+Language=crh
+Label="crh (crh_f)"
+
+[keyboard-ua-crh_alt]
+Description="Keyboard - Ucraina - Tatar crimea (turca Alt-Q)"
+Language=crh
+Label="crh (crh_alt)"
+
+[keyboard-ua-sun_type6]
+Description="Keyboard - Ucraina - Ucraina (Sun Type 6/7)"
+Language=uk
+Label="ua (sun_type6)"
+
+[keyboard-th]
+Description="Keyboard - Thai"
+Language=th
+Label=th
+
+[keyboard-th-tis]
+Description="Keyboard - Thai - Thai (TIS-820.2538)"
+Language=th
+Label="th (tis)"
+
+[keyboard-th-pat]
+Description="Keyboard - Thai - Thai (pattachote)"
+Language=th
+Label="th (pat)"
+
+[keyboard-mv]
+Description="Keyboard - Dhivehi"
+Language=dv
+Label=dv
+
+[keyboard-tj]
+Description="Keyboard - Tagika"
+Language=tg
+Label=tg
+
+[keyboard-tj-legacy]
+Description="Keyboard - Tagika - Tagika (vecchia maniera)"
+Language=tg
+Label="tj (legacy)"
+
+[keyboard-sk]
+Description="Keyboard - Slovacca"
+Language=sk
+Label=sk
+
+[keyboard-sk-bksl]
+Description="Keyboard - Slovacca - Slovak (extra backslash)"
+Language=sk
+Label="sk (bksl)"
+
+[keyboard-sk-qwerty]
+Description="Keyboard - Slovacca - Slovacca (QWERTY)"
+Language=sk
+Label="sk (qwerty)"
+
+[keyboard-sk-qwerty_bksl]
+Description="Keyboard - Slovacca - Slovak (QWERTY, extra backslash)"
+Language=sk
+Label="sk (qwerty_bksl)"
+
+[keyboard-sk-acc]
+Description="Keyboard - Slovacca - Slovacca (disposizione ACC, solo lettere accentate)"
+Language=sk
+Label="sk (acc)"
+
+[keyboard-sk-sun_type6]
+Description="Keyboard - Slovacca - Slovacca (Sun Type 6/7)"
+Language=sk
+Label="sk (sun_type6)"
+
+[keyboard-ru]
+Description="Keyboard - Russa"
+Language=ru
+Label=ru
+
+[keyboard-ru-phonetic]
+Description="Keyboard - Russa - Russa (fonetica)"
+Language=ru
+Label="ru (phonetic)"
+
+[keyboard-ru-phonetic_winkeys]
+Description="Keyboard - Russa - Russa (fonetica, Windows)"
+Language=ru
+Label="ru (phonetic_winkeys)"
+
+[keyboard-ru-phonetic_YAZHERTY]
+Description="Keyboard - Russa - Russa (fonetica, YAZHERTY)"
+Language=ru
+Label="ru (phonetic_YAZHERTY)"
+
+[keyboard-ru-typewriter]
+Description="Keyboard - Russa - Russa (macchina per scrivere)"
+Language=ru
+Label="ru (typewriter)"
+
+[keyboard-ru-ruchey_ru]
+Description="Keyboard - Russa - Russian (engineering, RU)"
+Language=ru
+Label="ru (ruchey_ru)"
+
+[keyboard-ru-ruchey_en]
+Description="Keyboard - Russa - Russian (engineering, EN)"
+Language=ru
+Label="en (ruchey_en)"
+
+[keyboard-ru-legacy]
+Description="Keyboard - Russa - Russa (vecchia maniera)"
+Language=ru
+Label="ru (legacy)"
+
+[keyboard-ru-typewriter-legacy]
+Description="Keyboard - Russa - Russa (macchina per scrivere, vecchia maniera)"
+Language=ru
+Label="ru (typewriter-legacy)"
+
+[keyboard-ru-tt]
+Description="Keyboard - Russa - Tatar"
+Language=tt
+Label="ru (tt)"
+
+[keyboard-ru-os_legacy]
+Description="Keyboard - Russa - Osseta (vecchia maniera)"
+Language=os
+Label="ru (os_legacy)"
+
+[keyboard-ru-os_winkeys]
+Description="Keyboard - Russa - Osseta (Windows)"
+Language=os
+Label="ru (os_winkeys)"
+
+[keyboard-ru-cv]
+Description="Keyboard - Russa - Chuvash"
+Language=cv
+Label="ru (cv)"
+
+[keyboard-ru-cv_latin]
+Description="Keyboard - Russa - Chuvash (latina)"
+Language=cv
+Label="ru (cv_latin)"
+
+[keyboard-ru-udm]
+Description="Keyboard - Russa - Udmurt"
+Language=udm
+Label="ru (udm)"
+
+[keyboard-ru-kom]
+Description="Keyboard - Russa - Komi"
+Language=kv
+Label="ru (kom)"
+
+[keyboard-ru-sah]
+Description="Keyboard - Russa - Jacuta"
+Language=sah
+Label="ru (sah)"
+
+[keyboard-ru-xal]
+Description="Keyboard - Russa - Kalmyk"
+Language=xal
+Label="ru (xal)"
+
+[keyboard-ru-dos]
+Description="Keyboard - Russa - Russa (DOS)"
+Language=ru
+Label="ru (dos)"
+
+[keyboard-ru-mac]
+Description="Keyboard - Russa - Russa (Macintosh)"
+Language=ru
+Label="ru (mac)"
+
+[keyboard-ru-srp]
+Description="Keyboard - Russa - Serba (Russia)"
+Language=ru
+Label="ru (srp)"
+
+[keyboard-ru-bak]
+Description="Keyboard - Russa - Baschira"
+Language=ba
+Label="ru (bak)"
+
+[keyboard-ru-chm]
+Description="Keyboard - Russa - Mari"
+Language=chm
+Label="ru (chm)"
+
+[keyboard-ru-phonetic_azerty]
+Description="Keyboard - Russa - Russa (fonetica, AZERTY)"
+Language=ru
+Label="ru (phonetic_azerty)"
+
+[keyboard-ru-phonetic_dvorak]
+Description="Keyboard - Russa - Russa (fonetica, Dvorak)"
+Language=ru
+Label="ru (phonetic_dvorak)"
+
+[keyboard-ru-phonetic_fr]
+Description="Keyboard - Russa - Russa (fonetica, francese)"
+Language=ru
+Label="ru (phonetic_fr)"
+
+[keyboard-ru-ab]
+Description="Keyboard - Russa - Abkhazian (Russia)"
+Language=ab
+Label="ru (ab)"
+
+[keyboard-ru-chu]
+Description="Keyboard - Russa - Slava ecclesiastica"
+Language=cu
+Label="ru (chu)"
+
+[keyboard-ru-ruu]
+Description="Keyboard - Russa - Russian (plus Ukrainian and Belarusian letters)"
+Language=ru
+Label="ru (ruu)"
+
+[keyboard-ru-rulemak]
+Description="Keyboard - Russa - Russa (Rulemak, fonetica Colemak)"
+Language=ru
+Label="ru (rulemak)"
+
+[keyboard-ru-phonetic_mac]
+Description="Keyboard - Russa - Russa (fonetica Macintosh)"
+Language=ru
+Label="ru (phonetic_mac)"
+
+[keyboard-ru-sun_type6]
+Description="Keyboard - Russa - Russa (Sun Type 6/7)"
+Language=ru
+Label="ru (sun_type6)"
+
+[keyboard-ru-unipunct]
+Description="Keyboard - Russa - Russa (con punteggiatura USA)"
+Language=ru
+Label="ru (unipunct)"
+
+[keyboard-ru-gost-6431-75-48]
+Description="Keyboard - Russa - Russian (GOST 6431-75)"
+Language=ru
+Label="ru (gost-6431-75-48)"
+
+[keyboard-ru-gost-14289-88]
+Description="Keyboard - Russa - Russian (GOST 14289-88)"
+Language=ru
+Label="ru (gost-14289-88)"
+
+[keyboard-ru-prxn]
+Description="Keyboard - Russa - Russa (poliglotta e reazionaria)"
+Language=ru
+Label="ru (prxn)"
+
+[keyboard-ru-winkeys-p]
+Description="Keyboard - Russa - Russian (Programmer)"
+Language=ru
+Label=winkeys-p
+
+[keyboard-ru-typo]
+Description="Keyboard - Russa - Russian (plus typographic symbols)"
+Language=ru
+Label="ru (typo)"
+
+[keyboard-ru-rtu]
+Description="Keyboard - Russa - Russian (plus Tatar letters)"
+Language=ru
+Label="ru (rtu)"
+
+[keyboard-trans]
+Description="Keyboard - Alfabeto fonetico internazionale"
+Language=
+Label=ipa
+
+[keyboard-trans-qwerty]
+Description="Keyboard - Alfabeto fonetico internazionale - International Phonetic Alphabet (QWERTY)"
+Language=
+Label="trans (qwerty)"
+
+[keyboard-ir]
+Description="Keyboard - Persiana"
+Language=fa
+Label=fa
+
+[keyboard-ir-pes_keypad]
+Description="Keyboard - Persiana - Persiana (con tastierino numerico persiano)"
+Language=fa
+Label="ir (pes_keypad)"
+
+[keyboard-ir-winkeys]
+Description="Keyboard - Persiana - Persian (Windows)"
+Language=fa
+Label="ir (winkeys)"
+
+[keyboard-ir-azb]
+Description="Keyboard - Persiana - Azerbaijani (Iran)"
+Language=azb
+Label=azb
+
+[keyboard-ir-ku]
+Description="Keyboard - Persiana - Curda (Iran, latina Q)"
+Language=ku
+Label=ku
+
+[keyboard-ir-ku_f]
+Description="Keyboard - Persiana - Curda (Iran, F)"
+Language=ku
+Label="ku (ku_f)"
+
+[keyboard-ir-ku_alt]
+Description="Keyboard - Persiana - Curda (Iran, latina Alt-Q)"
+Language=ku
+Label="ku (ku_alt)"
+
+[keyboard-ir-ku_ara]
+Description="Keyboard - Persiana - Curda (Iran, arabo-latina)"
+Language=ku
+Label="ku (ku_ara)"
+
+[keyboard-ng]
+Description="Keyboard - Inglese (Nigeria)"
+Language=en
+Label=en
+
+[keyboard-ng-igbo]
+Description="Keyboard - Inglese (Nigeria) - Igbo"
+Language=ig
+Label="ig (igbo)"
+
+[keyboard-ng-yoruba]
+Description="Keyboard - Inglese (Nigeria) - Yoruba"
+Language=yo
+Label="yo (yoruba)"
+
+[keyboard-ng-hausa]
+Description="Keyboard - Inglese (Nigeria) - Hausa (Nigeria)"
+Language=ha
+Label="ha (hausa)"
+
+[keyboard-is]
+Description="Keyboard - Islandese"
+Language=is
+Label=is
+
+[keyboard-is-mac_legacy]
+Description="Keyboard - Islandese - Islandese (Macintosh, vecchia maniera)"
+Language=is
+Label="is (mac_legacy)"
+
+[keyboard-is-mac]
+Description="Keyboard - Islandese - Islandese (Macintosh)"
+Language=is
+Label="is (mac)"
+
+[keyboard-is-dvorak]
+Description="Keyboard - Islandese - Islandese (Dvorak)"
+Language=is
+Label="is (dvorak)"
+
+[keyboard-es]
+Description="Keyboard - Spagnola"
+Language=es
+Label=es
+
+[keyboard-es-nodeadkeys]
+Description="Keyboard - Spagnola - Spagnola (senza tasti muti)"
+Language=es
+Label="es (nodeadkeys)"
+
+[keyboard-es-winkeys]
+Description="Keyboard - Spagnola - Spagnola (Windows)"
+Language=es
+Label="es (winkeys)"
+
+[keyboard-es-deadtilde]
+Description="Keyboard - Spagnola - Spagnola (tilde muta)"
+Language=es
+Label="es (deadtilde)"
+
+[keyboard-es-dvorak]
+Description="Keyboard - Spagnola - Spagnola (Dvorak)"
+Language=es
+Label="es (dvorak)"
+
+[keyboard-es-ast]
+Description="Keyboard - Spagnola - Asturiana (Spagna, H e L con punto sottoscritto)"
+Language=ast
+Label=ast
+
+[keyboard-es-cat]
+Description="Keyboard - Spagnola - Catalana (Spagna, con L middle-dot)"
+Language=ca
+Label="ca (cat)"
+
+[keyboard-es-sun_type6]
+Description="Keyboard - Spagnola - Spagnola (Sun Type 6/7)"
+Language=es
+Label="es (sun_type6)"
+
+[keyboard-ee]
+Description="Keyboard - Estone"
+Language=et
+Label=et
+
+[keyboard-ee-nodeadkeys]
+Description="Keyboard - Estone - Estone (senza tasti muti)"
+Language=et
+Label="ee (nodeadkeys)"
+
+[keyboard-ee-dvorak]
+Description="Keyboard - Estone - Estone (Dvorak)"
+Language=et
+Label="ee (dvorak)"
+
+[keyboard-ee-us]
+Description="Keyboard - Estone - Estone (USA)"
+Language=et
+Label="ee (us)"
+
+[keyboard-ee-sun_type6]
+Description="Keyboard - Estone - Estone (Sun Type 6/7)"
+Language=et
+Label="ee (sun_type6)"
+
+[keyboard-nl]
+Description="Keyboard - Olandese"
+Language=nl
+Label=nl
+
+[keyboard-nl-us]
+Description="Keyboard - Olandese - Dutch (US)"
+Language=nl
+Label="nl (us)"
+
+[keyboard-nl-mac]
+Description="Keyboard - Olandese - Olandese (Macintosh)"
+Language=nl
+Label="nl (mac)"
+
+[keyboard-nl-std]
+Description="Keyboard - Olandese - Olandese (standard)"
+Language=nl
+Label="nl (std)"
+
+[keyboard-nl-sun_type6]
+Description="Keyboard - Olandese - Olandese (Sun Type 6/7)"
+Language=nl
+Label="nl (sun_type6)"
+
+[keyboard-cz]
+Description="Keyboard - Ceca"
+Language=cs
+Label=cs
+
+[keyboard-cz-bksl]
+Description="Keyboard - Ceca - Czech (extra backslash)"
+Language=cs
+Label="cz (bksl)"
+
+[keyboard-cz-qwerty]
+Description="Keyboard - Ceca - Ceca (QWERTY)"
+Language=cs
+Label="cz (qwerty)"
+
+[keyboard-cz-qwerty_bksl]
+Description="Keyboard - Ceca - Czech (QWERTY, extra backslash)"
+Language=cs
+Label="cz (qwerty_bksl)"
+
+[keyboard-cz-qwerty-mac]
+Description="Keyboard - Ceca - Ceca (QWERTY, Macintosh)"
+Language=cs
+Label="cz (qwerty-mac)"
+
+[keyboard-cz-ucw]
+Description="Keyboard - Ceca - Ceca (UCW, solo lettere accentate)"
+Language=cs
+Label="cz (ucw)"
+
+[keyboard-cz-dvorak-ucw]
+Description="Keyboard - Ceca - Ceca (USA, Dvorak, con supporto UCW)"
+Language=cs
+Label="cz (dvorak-ucw)"
+
+[keyboard-cz-rus]
+Description="Keyboard - Ceca - Russian (Czechia, phonetic)"
+Language=ru
+Label="ru (rus)"
+
+[keyboard-cz-winkeys]
+Description="Keyboard - Ceca - Czech (QWERTZ, Windows flavour)"
+Language=cs
+Label="cz (winkeys)"
+
+[keyboard-cz-winkeys-qwerty]
+Description="Keyboard - Ceca - Czech (QWERTY, Windows flavour)"
+Language=cs
+Label="cz (winkeys-qwerty)"
+
+[keyboard-cz-sun_type6]
+Description="Keyboard - Ceca - Ceca (Sun Type 6/7)"
+Language=cs
+Label="cz (sun_type6)"
+
+[keyboard-cz-prog]
+Description="Keyboard - Ceca - Ceca (programmazione)"
+Language=cs
+Label="cz (prog)"
+
+[keyboard-cz-prog_typo]
+Description="Keyboard - Ceca - Ceca (programmazione, tipografica)"
+Language=cs
+Label="cz (prog_typo)"
+
+[keyboard-cz-coder]
+Description="Keyboard - Ceca - Ceca (programmatore)"
+Language=cs
+Label="cz (coder)"
+
+[keyboard-cz-colemak-ucw]
+Description="Keyboard - Ceca - Czech (US, Colemak, UCW support)"
+Language=cs
+Label="cz (colemak-ucw)"
+
+[keyboard-se]
+Description="Keyboard - Svedese"
+Language=sv
+Label=sv
+
+[keyboard-se-nodeadkeys]
+Description="Keyboard - Svedese - Svedese (senza tasti muti)"
+Language=sv
+Label="se (nodeadkeys)"
+
+[keyboard-se-dvorak]
+Description="Keyboard - Svedese - Svedese (Dvorak)"
+Language=sv
+Label="se (dvorak)"
+
+[keyboard-se-rus]
+Description="Keyboard - Svedese - Russa (svedese, fonetica)"
+Language=ru
+Label="ru (rus)"
+
+[keyboard-se-rus_nodeadkeys]
+Description="Keyboard - Svedese - Russa (svedese, fonetica, senza tasti muti)"
+Language=ru
+Label="ru (rus_nodeadkeys)"
+
+[keyboard-se-smi]
+Description="Keyboard - Svedese - Saami settentrionale (Svezia)"
+Language=se
+Label="se (smi)"
+
+[keyboard-se-mac]
+Description="Keyboard - Svedese - Svedese (Macintosh)"
+Language=sv
+Label="se (mac)"
+
+[keyboard-se-svdvorak]
+Description="Keyboard - Svedese - Svedese (Svdvorak)"
+Language=sv
+Label="se (svdvorak)"
+
+[keyboard-se-us_dvorak]
+Description="Keyboard - Svedese - Svedese (Dvorak, intl.)"
+Language=sv
+Label="se (us_dvorak)"
+
+[keyboard-se-us]
+Description="Keyboard - Svedese - Svedese (USA)"
+Language=sv
+Label="se (us)"
+
+[keyboard-se-swl]
+Description="Keyboard - Svedese - Linguaggio segni svedese"
+Language=swl
+Label="se (swl)"
+
+[keyboard-se-dvorak_a5]
+Description="Keyboard - Svedese - Svedese (Dvorak A5)"
+Language=sv
+Label="se (dvorak_a5)"
+
+[keyboard-se-sun_type6]
+Description="Keyboard - Svedese - Svedese (Sun Type 6/7)"
+Language=sv
+Label="se (sun_type6)"
+
+[keyboard-se-ovd]
+Description="Keyboard - Svedese - Elfdalian (svedese, con combinazione ogonek)"
+Language=ovd
+Label="se (ovd)"
+
+[keyboard-bg]
+Description="Keyboard - Bulgara (fonetica nuova)"
+Language=bg
+Label=bg
+
+[keyboard-bg-phonetic]
+Description="Keyboard - Bulgara (fonetica nuova) - Bulgara (fonetica tradizionale)"
+Language=bg
+Label="bg (phonetic)"
+
+[keyboard-bg-bas_phonetic]
+Description="Keyboard - Bulgara (fonetica nuova) - Bulgara (fonetica nuova)"
+Language=bg
+Label="bg (bas_phonetic)"
+
+[keyboard-bg-bekl]
+Description="Keyboard - Bulgara (fonetica nuova) - Bulgara (migliorata)"
+Language=bg
+Label="bg (bekl)"
+
+[keyboard-md]
+Description="Keyboard - Moldava"
+Language=ro
+Label=md
+
+[keyboard-md-gag]
+Description="Keyboard - Moldava - Gagauz (Moldova)"
+Language=gag
+Label=gag
+
+[keyboard-ke]
+Description="Keyboard - Swahili (Kenya)"
+Language=sw
+Label=sw
+
+[keyboard-ke-kik]
+Description="Keyboard - Swahili (Kenya) - Kikuyu"
+Language=ki
+Label="ki (kik)"
+
+[keyboard-us]
+Description="Keyboard - Inglese (USA)"
+Language=en
+Label=en
+
+[keyboard-us-chr]
+Description="Keyboard - Inglese (USA) - Cherokee"
+Language=chr
+Label=chr
+
+[keyboard-us-haw]
+Description="Keyboard - Inglese (USA) - Hawaiana"
+Language=haw
+Label=haw
+
+[keyboard-us-euro]
+Description="Keyboard - Inglese (USA) - Inglese (USA, con Euro sul 5)"
+Language=en
+Label="us (euro)"
+
+[keyboard-us-intl]
+Description="Keyboard - Inglese (USA) - Inglese (USA, intl., con tasti muti)"
+Language=en
+Label="us (intl)"
+
+[keyboard-us-alt-intl]
+Description="Keyboard - Inglese (USA) - Inglese (USA, alt. intl.)"
+Language=en
+Label="us (alt-intl)"
+
+[keyboard-us-colemak]
+Description="Keyboard - Inglese (USA) - Inglese (Colemak)"
+Language=en
+Label="us (colemak)"
+
+[keyboard-us-colemak_dh]
+Description="Keyboard - Inglese (USA) - English (Colemak-DH)"
+Language=en
+Label="us (colemak_dh)"
+
+[keyboard-us-colemak_dh_wide]
+Description="Keyboard - Inglese (USA) - English (Colemak-DH Wide)"
+Language=en
+Label="us (colemak_dh_wide)"
+
+[keyboard-us-colemak_dh_ortho]
+Description="Keyboard - Inglese (USA) - English (Colemak-DH Ortholinear)"
+Language=en
+Label="us (colemak_dh_ortho)"
+
+[keyboard-us-colemak_dh_iso]
+Description="Keyboard - Inglese (USA) - English (Colemak-DH ISO)"
+Language=en
+Label="us (colemak_dh_iso)"
+
+[keyboard-us-colemak_dh_wide_iso]
+Description="Keyboard - Inglese (USA) - English (Colemak-DH Wide ISO)"
+Language=en
+Label="us (colemak_dh_wide_iso)"
+
+[keyboard-us-dvorak]
+Description="Keyboard - Inglese (USA) - Inglese (Dvorak)"
+Language=en
+Label="us (dvorak)"
+
+[keyboard-us-dvorak-intl]
+Description="Keyboard - Inglese (USA) - Inglese (Dvorak, intl., con tasti muti)"
+Language=en
+Label="us (dvorak-intl)"
+
+[keyboard-us-dvorak-alt-intl]
+Description="Keyboard - Inglese (USA) - Inglese (Dvorak, alt. intl.)"
+Language=en
+Label="us (dvorak-alt-intl)"
+
+[keyboard-us-dvorak-l]
+Description="Keyboard - Inglese (USA) - Inglese (Dvorak, mancina)"
+Language=en
+Label="us (dvorak-l)"
+
+[keyboard-us-dvorak-r]
+Description="Keyboard - Inglese (USA) - Inglese (Dvorak, destrorsa)"
+Language=en
+Label="us (dvorak-r)"
+
+[keyboard-us-dvorak-classic]
+Description="Keyboard - Inglese (USA) - Inglese (Dvorak classica)"
+Language=en
+Label="us (dvorak-classic)"
+
+[keyboard-us-dvp]
+Description="Keyboard - Inglese (USA) - Inglese (Dvorak per programmatori)"
+Language=en
+Label="us (dvp)"
+
+[keyboard-us-dvorak-mac]
+Description="Keyboard - Inglese (USA) - English (Dvorak, Macintosh)"
+Language=en
+Label="us (dvorak-mac)"
+
+[keyboard-us-symbolic]
+Description="Keyboard - Inglese (USA) - Inglese (USA, simbolica)"
+Language=en
+Label="us (symbolic)"
+
+[keyboard-us-rus]
+Description="Keyboard - Inglese (USA) - Russa (USA, fonetica)"
+Language=ru
+Label="ru (rus)"
+
+[keyboard-us-mac]
+Description="Keyboard - Inglese (USA) - Inglese (Macintosh )"
+Language=en
+Label="us (mac)"
+
+[keyboard-us-altgr-intl]
+Description="Keyboard - Inglese (USA) - Inglese (intl., con tasti muti AltGr)"
+Language=en
+Label="us (altgr-intl)"
+
+[keyboard-us-olpc2]
+Description="Keyboard - Inglese (USA) - Inglese (i tasti divisione/moltiplicazione commutano la disposizione)"
+Language=en
+Label="us (olpc2)"
+
+[keyboard-us-hbs]
+Description="Keyboard - Inglese (USA) - Serbo-croata (USA)"
+Language=en
+Label="us (hbs)"
+
+[keyboard-us-norman]
+Description="Keyboard - Inglese (USA) - Inglese (Norman)"
+Language=en
+Label="us (norman)"
+
+[keyboard-us-workman]
+Description="Keyboard - Inglese (USA) - Inglese (Workman)"
+Language=en
+Label="us (workman)"
+
+[keyboard-us-workman-intl]
+Description="Keyboard - Inglese (USA) - Inglese (Workman, intl., con tasti muti)"
+Language=en
+Label="us (workman-intl)"
+
+[keyboard-us-intl-unicode]
+Description="Keyboard - Inglese (USA) - Inglese (USA, intl., combinazione Unicode AltGr)"
+Language=en
+Label="us (intl-unicode)"
+
+[keyboard-us-alt-intl-unicode]
+Description="Keyboard - Inglese (USA) - Inglese (USA, intl., combinazione Unicode AltGr, alt.)"
+Language=en
+Label="us (alt-intl-unicode)"
+
+[keyboard-us-ats]
+Description="Keyboard - Inglese (USA) - Atsina"
+Language=en
+Label="us (ats)"
+
+[keyboard-us-crd]
+Description="Keyboard - Inglese (USA) - Coeur d'Alene Salish"
+Language=crd
+Label="us (crd)"
+
+[keyboard-us-cz_sk_de]
+Description="Keyboard - Inglese (USA) - Czech, Slovak and German (US)"
+Language=en
+Label="us (cz_sk_de)"
+
+[keyboard-us-cz_sk_pl_de_es_fi_sv]
+Description="Keyboard - Inglese (USA) - Czech, Slovak, Polish, Spanish, Finnish, Swedish and German (US)"
+Language=en
+Label="us (cz_sk_pl_de_es_fi_sv)"
+
+[keyboard-us-drix]
+Description="Keyboard - Inglese (USA) - Inglese (Drix)"
+Language=en
+Label="us (drix)"
+
+[keyboard-us-de_se_fi]
+Description="Keyboard - Inglese (USA) - Tedesca, svedese e finlandese (USA)"
+Language=en
+Label="us (de_se_fi)"
+
+[keyboard-us-ibm238l]
+Description="Keyboard - Inglese (USA) - Inglese (USA, IBM Araba 238_L)"
+Language=en
+Label="us (ibm238l)"
+
+[keyboard-us-sun_type6]
+Description="Keyboard - Inglese (USA) - Inglese (USA, Sun Type 6/7)"
+Language=en
+Label="us (sun_type6)"
+
+[keyboard-us-carpalx]
+Description="Keyboard - Inglese (USA) - Inglese (Carpalx)"
+Language=en
+Label="us (carpalx)"
+
+[keyboard-us-carpalx-intl]
+Description="Keyboard - Inglese (USA) - Inglese (Carpalx, intl., con tasti muti)"
+Language=en
+Label="us (carpalx-intl)"
+
+[keyboard-us-carpalx-altgr-intl]
+Description="Keyboard - Inglese (USA) - Inglese (Carpalx, intl., con tasti muti AltGr)"
+Language=en
+Label="us (carpalx-altgr-intl)"
+
+[keyboard-us-carpalx-full]
+Description="Keyboard - Inglese (USA) - Inglese (Carpalx, ottimizzazione piena)"
+Language=en
+Label="us (carpalx-full)"
+
+[keyboard-us-carpalx-full-intl]
+Description="Keyboard - Inglese (USA) - Inglese (Carpalx, ottimizzazione piena, intl., con tasti muti)"
+Language=en
+Label="us (carpalx-full-intl)"
+
+[keyboard-us-carpalx-full-altgr-intl]
+Description="Keyboard - Inglese (USA) - Inglese (Carpalx, ottimizzazione piena, intl., con tasti muti AltGr)"
+Language=en
+Label="us (carpalx-full-altgr-intl)"
+
+[keyboard-us-3l]
+Description="Keyboard - Inglese (USA) - Inglese (3l)"
+Language=en
+Label="us (3l)"
+
+[keyboard-us-3l-cros]
+Description="Keyboard - Inglese (USA) - Inglese (3l, Chromebook)"
+Language=en
+Label="us (3l-cros)"
+
+[keyboard-us-3l-emacs]
+Description="Keyboard - Inglese (USA) - Inglese (3l, emacs)"
+Language=en
+Label="us (3l-emacs)"
+
+[keyboard-us-workman-p]
+Description="Keyboard - Inglese (USA) - English (Workman-P)"
+Language=en
+Label=workman-p
+
+[keyboard-us-scn]
+Description="Keyboard - Inglese (USA) - Siciliana (tastiera USA)"
+Language=en
+Label="us (scn)"
+
+[keyboard-us-altgr-weur]
+Description="Keyboard - Inglese (USA) - English (Western European AltGr dead keys)"
+Language=en
+Label="us (altgr-weur)"
+
+[keyboard-ge]
+Description="Keyboard - Georgiana"
+Language=ka
+Label=ka
+
+[keyboard-ge-ergonomic]
+Description="Keyboard - Georgiana - Georgiana (ergonomica)"
+Language=ka
+Label="ge (ergonomic)"
+
+[keyboard-ge-mess]
+Description="Keyboard - Georgiana - Georgiana (MESS)"
+Language=ka
+Label="ge (mess)"
+
+[keyboard-ge-ru]
+Description="Keyboard - Georgiana - Russa (Georgia)"
+Language=ru
+Label=ru
+
+[keyboard-ge-os]
+Description="Keyboard - Georgiana - Osseta (Georgia)"
+Language=os
+Label="ge (os)"
+
+[keyboard-hr]
+Description="Keyboard - Croata"
+Language=hr
+Label=hr
+
+[keyboard-hr-alternatequotes]
+Description="Keyboard - Croata - Croata (con caporali)"
+Language=hr
+Label="hr (alternatequotes)"
+
+[keyboard-hr-unicode]
+Description="Keyboard - Croata - Croata (con digrammi croati)"
+Language=hr
+Label="hr (unicode)"
+
+[keyboard-hr-unicodeus]
+Description="Keyboard - Croata - Croata (USA, con digrammi croati)"
+Language=hr
+Label="hr (unicodeus)"
+
+[keyboard-hr-us]
+Description="Keyboard - Croata - Croata (USA)"
+Language=hr
+Label="hr (us)"
+
+[keyboard-sy]
+Description="Keyboard - Araba (Siria)"
+Language=syr
+Label=ar
+
+[keyboard-sy-syc]
+Description="Keyboard - Araba (Siria) - Siriana"
+Language=syr
+Label=syc
+
+[keyboard-sy-syc_phonetic]
+Description="Keyboard - Araba (Siria) - Siriana (fonetica)"
+Language=syr
+Label="syc (syc_phonetic)"
+
+[keyboard-sy-ku]
+Description="Keyboard - Araba (Siria) - Curda (Siria, latina Q)"
+Language=ku
+Label=ku
+
+[keyboard-sy-ku_f]
+Description="Keyboard - Araba (Siria) - Curda (Siria, F)"
+Language=ku
+Label="ku (ku_f)"
+
+[keyboard-sy-ku_alt]
+Description="Keyboard - Araba (Siria) - Curda (Siria, latina Alt-Q)"
+Language=ku
+Label="ku (ku_alt)"
+
+[keyboard-ma]
+Description="Keyboard - Araba (Marocco)"
+Language=ary
+Label=ar
+
+[keyboard-ma-french]
+Description="Keyboard - Araba (Marocco) - Francese (Marocco)"
+Language=fr
+Label="fr (french)"
+
+[keyboard-ma-tifinagh]
+Description="Keyboard - Araba (Marocco) - Berbera (Marocco, Tifinagh)"
+Language=
+Label="ber (tifinagh)"
+
+[keyboard-ma-tifinagh-alt]
+Description="Keyboard - Araba (Marocco) - Berbera (Marocco, alt. Tifinagh)"
+Language=
+Label="ber (tifinagh-alt)"
+
+[keyboard-ma-tifinagh-alt-phonetic]
+Description="Keyboard - Araba (Marocco) - Berbera (Marocco, Tifinagh fonetica, alt.)"
+Language=
+Label="ber (tifinagh-alt-phonetic)"
+
+[keyboard-ma-tifinagh-extended]
+Description="Keyboard - Araba (Marocco) - Berbera (Marocco, Tifinagh estesa)"
+Language=
+Label="ber (tifinagh-extended)"
+
+[keyboard-ma-tifinagh-phonetic]
+Description="Keyboard - Araba (Marocco) - Berbera (Marocco, Tifinagh fonetica)"
+Language=
+Label="ber (tifinagh-phonetic)"
+
+[keyboard-ma-tifinagh-extended-phonetic]
+Description="Keyboard - Araba (Marocco) - Berbera (Marocco, Tifinagh fonetica estesa)"
+Language=
+Label="ber (tifinagh-extended-phonetic)"
+
+[keyboard-ma-rif]
+Description="Keyboard - Araba (Marocco) - Tarifit"
+Language=rif
+Label=rif
+
+[keyboard-af]
+Description="Keyboard - Dari"
+Language=drs
+Label=fa
+
+[keyboard-af-ps]
+Description="Keyboard - Dari - Pashto"
+Language=ps
+Label=ps
+
+[keyboard-af-uz]
+Description="Keyboard - Dari - Uzbeka (Afghanistan)"
+Language=uz
+Label=uz
+
+[keyboard-af-ps-olpc]
+Description="Keyboard - Dari - Pashto (Afghanistan, OLPC)"
+Language=ps
+Label="ps (ps-olpc)"
+
+[keyboard-af-fa-olpc]
+Description="Keyboard - Dari - Dari (Afghanistan, OLPC)"
+Language=drs
+Label="fa (fa-olpc)"
+
+[keyboard-af-uz-olpc]
+Description="Keyboard - Dari - Uzbeka (Afghanistan, OLPC)"
+Language=uz
+Label="uz (uz-olpc)"
+
+[keyboard-dz]
+Description="Keyboard - Berber (Algeria, Latin)"
+Language=tzm
+Label=kab
+
+[keyboard-dz-azerty-deadkeys]
+Description="Keyboard - Berber (Algeria, Latin) - Kabyle (AZERTY, with dead keys)"
+Language=kab
+Label="kab (azerty-deadkeys)"
+
+[keyboard-dz-qwerty-gb-deadkeys]
+Description="Keyboard - Berber (Algeria, Latin) - Kabyle (QWERTY, UK, with dead keys)"
+Language=kab
+Label="kab (qwerty-gb-deadkeys)"
+
+[keyboard-dz-qwerty-us-deadkeys]
+Description="Keyboard - Berber (Algeria, Latin) - Kabyle (QWERTY, US, with dead keys)"
+Language=kab
+Label="kab (qwerty-us-deadkeys)"
+
+[keyboard-dz-ber]
+Description="Keyboard - Berber (Algeria, Latin) - Berber (Algeria, Tifinagh)"
+Language=kab
+Label="kab (ber)"
+
+[keyboard-dz-ar]
+Description="Keyboard - Berber (Algeria, Latin) - Araba (Algeria)"
+Language=ar
+Label=ar
+
+[keyboard-mn]
+Description="Keyboard - Mongola"
+Language=mn
+Label=mn
+
+[keyboard-pk]
+Description="Keyboard - Urdu (Pakistan)"
+Language=ur
+Label=ur
+
+[keyboard-pk-urd-crulp]
+Description="Keyboard - Urdu (Pakistan) - Urdu (Pakistan, CRULP)"
+Language=ur
+Label="pk (urd-crulp)"
+
+[keyboard-pk-urd-nla]
+Description="Keyboard - Urdu (Pakistan) - Urdu (Pakistan, NLA)"
+Language=ur
+Label="pk (urd-nla)"
+
+[keyboard-pk-ara]
+Description="Keyboard - Urdu (Pakistan) - Araba (Pakistan)"
+Language=ar
+Label="ar (ara)"
+
+[keyboard-pk-snd]
+Description="Keyboard - Urdu (Pakistan) - Sindhi"
+Language=sd
+Label="sd (snd)"
+
+[keyboard-pk-urd-navees]
+Description="Keyboard - Urdu (Pakistan) - Urdu (Pakistan, Navees)"
+Language=ur
+Label="pk (urd-navees)"
+
+[keyboard-au]
+Description="Keyboard - English (Australia)"
+Language=en
+Label=en
+
+[keyboard-ml]
+Description="Keyboard - Bambara"
+Language=bm
+Label=bm
+
+[keyboard-ml-fr-oss]
+Description="Keyboard - Bambara - Francese (Mali, alt.)"
+Language=fr
+Label="fr (fr-oss)"
+
+[keyboard-ml-us-mac]
+Description="Keyboard - Bambara - Inglese (Mali, USA, Macintosh)"
+Language=en
+Label="en (us-mac)"
+
+[keyboard-ml-us-intl]
+Description="Keyboard - Bambara - Inglese (Mali, USA, intl.)"
+Language=en
+Label="en (us-intl)"
+
+[keyboard-vn]
+Description="Keyboard - Vietnamita"
+Language=vi
+Label=vi
+
+[keyboard-vn-us]
+Description="Keyboard - Vietnamita - Vietnamita (USA)"
+Language=vi
+Label="vn (us)"
+
+[keyboard-vn-fr]
+Description="Keyboard - Vietnamita - Vietnamese (France)"
+Language=vi
+Label="vn (fr)"
+
+[keyboard-vn-aderty]
+Description="Keyboard - Vietnamita - Vietnamita (AÐERTY)"
+Language=vi
+Label="vn (aderty)"
+
+[keyboard-vn-qderty]
+Description="Keyboard - Vietnamita - Vietnamita (QĐERTY)"
+Language=vi
+Label="vn (qderty)"
+
+[keyboard-ara]
+Description="Keyboard - Araba"
+Language=ar
+Label=ar
+
+[keyboard-ara-azerty]
+Description="Keyboard - Araba - Araba (AZERTY)"
+Language=ar
+Label="ara (azerty)"
+
+[keyboard-ara-azerty_digits]
+Description="Keyboard - Araba - Araba (AZERTY, numeri arabi orientali"
+Language=ar
+Label="ara (azerty_digits)"
+
+[keyboard-ara-digits]
+Description="Keyboard - Araba - Araba (numeri arabi orientali)"
+Language=ar
+Label="ara (digits)"
+
+[keyboard-ara-qwerty]
+Description="Keyboard - Araba - Araba (QWERTY)"
+Language=ar
+Label="ara (qwerty)"
+
+[keyboard-ara-qwerty_digits]
+Description="Keyboard - Araba - Araba (QWERTY, numeri arabi orientali"
+Language=ar
+Label="ara (qwerty_digits)"
+
+[keyboard-ara-buckwalter]
+Description="Keyboard - Araba - Araba (Buckwalter)"
+Language=ar
+Label="ara (buckwalter)"
+
+[keyboard-ara-olpc]
+Description="Keyboard - Araba - Araba (OLPC)"
+Language=ar
+Label="ara (olpc)"
+
+[keyboard-ara-mac]
+Description="Keyboard - Araba - Araba (Macintosh)"
+Language=ar
+Label="ara (mac)"
+
+[keyboard-ara-sun_type6]
+Description="Keyboard - Araba - Araba (Sun Type 6/7)"
+Language=ar
+Label="ara (sun_type6)"
+
+[keyboard-ara-basic_ext]
+Description="Keyboard - Araba - Araba (numeri arabi, estensioni nel quarto livello"
+Language=ar
+Label="ara (basic_ext)"
+
+[keyboard-ara-basic_ext_digits]
+Description="Keyboard - Araba - Araba (numeri arabi orientali, estensioni nel quarto livello)"
+Language=ar
+Label="ara (basic_ext_digits)"
+
+[keyboard-ara-ergoarabic]
+Description="Keyboard - Araba - Arabic (ErgoArabic)"
+Language=ar
+Label="ara (ergoarabic)"
+
+[keyboard-ie]
+Description="Keyboard - Irlandese"
+Language=en
+Label=ie
+
+[keyboard-ie-CloGaelach]
+Description="Keyboard - Irlandese - CloGaelach"
+Language=ga
+Label="ie (CloGaelach)"
+
+[keyboard-ie-UnicodeExpert]
+Description="Keyboard - Irlandese - Irlandese (UnicodeExpert)"
+Language=en
+Label="ie (UnicodeExpert)"
+
+[keyboard-ie-ogam]
+Description="Keyboard - Irlandese - Ogham"
+Language=sga
+Label="ie (ogam)"
+
+[keyboard-ie-ogam_is434]
+Description="Keyboard - Irlandese - Ogham (IS434)"
+Language=sga
+Label="ie (ogam_is434)"
+
+[keyboard-cm]
+Description="Keyboard - Inglese (Camerun)"
+Language=en
+Label=cm
+
+[keyboard-cm-french]
+Description="Keyboard - Inglese (Camerun) - Francese (Camerun)"
+Language=fr
+Label="cm (french)"
+
+[keyboard-cm-qwerty]
+Description="Keyboard - Inglese (Camerun) - Cameroon multilingue (QWERTY, intl.)"
+Language=en
+Label="cm (qwerty)"
+
+[keyboard-cm-azerty]
+Description="Keyboard - Inglese (Camerun) - Cameroon (AZERTY, intl.)"
+Language=fr
+Label="cm (azerty)"
+
+[keyboard-cm-dvorak]
+Description="Keyboard - Inglese (Camerun) - Cameroon (Dvorak, alt. intl.)"
+Language=en
+Label="cm (dvorak)"
+
+[keyboard-cm-mmuock]
+Description="Keyboard - Inglese (Camerun) - Mmuock"
+Language=en
+Label="cm (mmuock)"
+
+[keyboard-kg]
+Description="Keyboard - Kirghiza"
+Language=ky
+Label=ki
+
+[keyboard-kg-phonetic]
+Description="Keyboard - Kirghiza - Kirghiza (fonetica)"
+Language=ky
+Label="kg (phonetic)"
+
+[keyboard-ph]
+Description="Keyboard - Filippina"
+Language=fil
+Label=ph
+
+[keyboard-ph-qwerty-bay]
+Description="Keyboard - Filippina - Filippina (QWERTY, baybayin)"
+Language=fil
+Label="ph (qwerty-bay)"
+
+[keyboard-ph-capewell-dvorak]
+Description="Keyboard - Filippina - Filippina (Capewell-Dvorak, latina)"
+Language=fil
+Label="ph (capewell-dvorak)"
+
+[keyboard-ph-capewell-dvorak-bay]
+Description="Keyboard - Filippina - Filippina (Capewell-Dvorak, baybayin)"
+Language=fil
+Label="ph (capewell-dvorak-bay)"
+
+[keyboard-ph-capewell-qwerf2k6]
+Description="Keyboard - Filippina - Filippina (Capewell-QWERF 2006, latina)"
+Language=fil
+Label="ph (capewell-qwerf2k6)"
+
+[keyboard-ph-capewell-qwerf2k6-bay]
+Description="Keyboard - Filippina - Filippina (Capewell-QWERF 2006, baybayin)"
+Language=fil
+Label="ph (capewell-qwerf2k6-bay)"
+
+[keyboard-ph-colemak]
+Description="Keyboard - Filippina - Filippina (Colemak, latina)"
+Language=fil
+Label="ph (colemak)"
+
+[keyboard-ph-colemak-bay]
+Description="Keyboard - Filippina - Filippina (Colemak, baybayin)"
+Language=fil
+Label="ph (colemak-bay)"
+
+[keyboard-ph-dvorak]
+Description="Keyboard - Filippina - Filippina (Dvorak, latina)"
+Language=fil
+Label="ph (dvorak)"
+
+[keyboard-ph-dvorak-bay]
+Description="Keyboard - Filippina - Filippina (Dvorak, baybayin)"
+Language=fil
+Label="ph (dvorak-bay)"
+
+[keyboard-bd]
+Description="Keyboard - Bengalese"
+Language=bn
+Label=bn
+
+[keyboard-bd-probhat]
+Description="Keyboard - Bengalese - Bengalese (Probhat)"
+Language=bn
+Label="bd (probhat)"
+
+[keyboard-lk]
+Description="Keyboard - Singalese (fonetica)"
+Language=si
+Label=si
+
+[keyboard-lk-tam_unicode]
+Description="Keyboard - Singalese (fonetica) - Tamil (Sri Lanka, TamilNet '99)"
+Language=ta
+Label="ta (tam_unicode)"
+
+[keyboard-lk-tam_TAB]
+Description="Keyboard - Singalese (fonetica) - Tamil (Sri Lanka, TamilNet '99, codifica TAB)"
+Language=ta
+Label="lk (tam_TAB)"
+
+[keyboard-lk-us]
+Description="Keyboard - Singalese (fonetica) - Singalese (USA)"
+Language=si
+Label=us
+
+[keyboard-al]
+Description="Keyboard - Albanese"
+Language=sq
+Label=sq
+
+[keyboard-al-plisi]
+Description="Keyboard - Albanese - Albanese (Plisi)"
+Language=sq
+Label="al (plisi)"
+
+[keyboard-al-veqilharxhi]
+Description="Keyboard - Albanese - Albanese (Veqilharxhi)"
+Language=sq
+Label="al (veqilharxhi)"
+
+[keyboard-tw]
+Description="Keyboard - Taiwanese"
+Language=
+Label=zh
+
+[keyboard-tw-indigenous]
+Description="Keyboard - Taiwanese - Taiwanese (indigena)"
+Language=tay
+Label="tw (indigenous)"
+
+[keyboard-tw-saisiyat]
+Description="Keyboard - Taiwanese - Saisiyat (Taiwan)"
+Language=xsy
+Label="xsy (saisiyat)"
+
+[keyboard-rs]
+Description="Keyboard - Serba"
+Language=sr
+Label=sr
+
+[keyboard-rs-yz]
+Description="Keyboard - Serba - Serba (cirillico, ZE e ZHE scambiati)"
+Language=sr
+Label="rs (yz)"
+
+[keyboard-rs-latin]
+Description="Keyboard - Serba - Serba (latina)"
+Language=sr
+Label="rs (latin)"
+
+[keyboard-rs-latinunicode]
+Description="Keyboard - Serba - Serba (latina, Unicode)"
+Language=sr
+Label="rs (latinunicode)"
+
+[keyboard-rs-latinyz]
+Description="Keyboard - Serba - Serba (latina, QWERTY)"
+Language=sr
+Label="rs (latinyz)"
+
+[keyboard-rs-latinunicodeyz]
+Description="Keyboard - Serba - Serba (latina, Unicode, QWERTY)"
+Language=sr
+Label="rs (latinunicodeyz)"
+
+[keyboard-rs-alternatequotes]
+Description="Keyboard - Serba - Serba (cirillico, con caporali)"
+Language=sr
+Label="rs (alternatequotes)"
+
+[keyboard-rs-latinalternatequotes]
+Description="Keyboard - Serba - Serba (latina, con caporali)"
+Language=sr
+Label="rs (latinalternatequotes)"
+
+[keyboard-rs-rue]
+Description="Keyboard - Serba - Rutena pannonica"
+Language=rue
+Label="rs (rue)"
+
+[keyboard-rs-combiningkeys]
+Description="Keyboard - Serba - Serba (combinazione di accenti invece di tasti muti)"
+Language=sr
+Label="rs (combiningkeys)"
+
+[keyboard-dk]
+Description="Keyboard - Danese"
+Language=da
+Label=da
+
+[keyboard-dk-nodeadkeys]
+Description="Keyboard - Danese - Danese (senza tasti muti)"
+Language=da
+Label="dk (nodeadkeys)"
+
+[keyboard-dk-winkeys]
+Description="Keyboard - Danese - Danese (Windows)"
+Language=da
+Label="dk (winkeys)"
+
+[keyboard-dk-mac]
+Description="Keyboard - Danese - Danese (Macintosh )"
+Language=da
+Label="dk (mac)"
+
+[keyboard-dk-mac_nodeadkeys]
+Description="Keyboard - Danese - Danese (Macintosh, senza tasti muti)"
+Language=da
+Label="dk (mac_nodeadkeys)"
+
+[keyboard-dk-dvorak]
+Description="Keyboard - Danese - Danese (Dvorak)"
+Language=da
+Label="dk (dvorak)"
+
+[keyboard-dk-sun_type6]
+Description="Keyboard - Danese - Danese (Sun Type 6/7)"
+Language=da
+Label="dk (sun_type6)"
+
+[keyboard-bt]
+Description="Keyboard - Dzongkha"
+Language=dz
+Label=dz
+
+[keyboard-la]
+Description="Keyboard - LAO"
+Language=lo
+Label=lo
+
+[keyboard-la-stea]
+Description="Keyboard - LAO - Lao (STEA)"
+Language=lo
+Label="la (stea)"
+
+[keyboard-mm]
+Description="Keyboard - Burmese"
+Language=my
+Label=my
+
+[keyboard-mm-zawgyi]
+Description="Keyboard - Burmese - Burmese Zawgyi"
+Language=my
+Label="zg (zawgyi)"
+
+[keyboard-mm-shn]
+Description="Keyboard - Burmese - Shan"
+Language=shn
+Label=shn
+
+[keyboard-mm-zgt]
+Description="Keyboard - Burmese - Shan (Zawgyi Tai)"
+Language=shn
+Label=zgt
+
+[keyboard-mm-mnw]
+Description="Keyboard - Burmese - Mon"
+Language=mnw
+Label="mon (mnw)"
+
+[keyboard-mm-mnw-a1]
+Description="Keyboard - Burmese - Mon (A1)"
+Language=mnw
+Label="mon-a1 (mnw-a1)"
+
+[keyboard-si]
+Description="Keyboard - Slovena"
+Language=sl
+Label=sl
+
+[keyboard-si-alternatequotes]
+Description="Keyboard - Slovena - Slovena (con caporali)"
+Language=sl
+Label="si (alternatequotes)"
+
+[keyboard-si-us]
+Description="Keyboard - Slovena - Slovena (USA)"
+Language=sl
+Label="si (us)"
+
+[keyboard-am]
+Description="Keyboard - Armena"
+Language=hy
+Label=hy
+
+[keyboard-am-phonetic]
+Description="Keyboard - Armena - Armena (fonetica)"
+Language=hy
+Label="am (phonetic)"
+
+[keyboard-am-phonetic-alt]
+Description="Keyboard - Armena - Armena (alt. fonetica)"
+Language=hy
+Label="am (phonetic-alt)"
+
+[keyboard-am-eastern]
+Description="Keyboard - Armena - Armena (orientale)"
+Language=hy
+Label="am (eastern)"
+
+[keyboard-am-western]
+Description="Keyboard - Armena - Armena (occidentale)"
+Language=hy
+Label="am (western)"
+
+[keyboard-am-eastern-alt]
+Description="Keyboard - Armena - Armena (alt. orientale)"
+Language=hy
+Label="am (eastern-alt)"
+
+[keyboard-am-olpc-phonetic]
+Description="Keyboard - Armena - Armena (OLPC, fonetica)"
+Language=hy
+Label="am (olpc-phonetic)"
+
+[keyboard-by]
+Description="Keyboard - Bielorussa"
+Language=be
+Label=by
+
+[keyboard-by-legacy]
+Description="Keyboard - Bielorussa - Bielorussa (vecchia maniera)"
+Language=be
+Label="by (legacy)"
+
+[keyboard-by-latin]
+Description="Keyboard - Bielorussa - Bielorussa (latina)"
+Language=be
+Label="by (latin)"
+
+[keyboard-by-ru]
+Description="Keyboard - Bielorussa - Russa (Bielorussia)"
+Language=ru
+Label="by (ru)"
+
+[keyboard-by-intl]
+Description="Keyboard - Bielorussa - Bielorussa (intl.)"
+Language=be
+Label="by (intl)"
+
+[keyboard-by-phonetic]
+Description="Keyboard - Bielorussa - Belarusian (phonetic)"
+Language=be
+Label="by (phonetic)"
+
+[keyboard-br]
+Description="Keyboard - Portoghese (Brasile)"
+Language=pt
+Label=pt
+
+[keyboard-br-nodeadkeys]
+Description="Keyboard - Portoghese (Brasile) - Portoghese (Brasile, senza tasti muti)"
+Language=pt
+Label="br (nodeadkeys)"
+
+[keyboard-br-dvorak]
+Description="Keyboard - Portoghese (Brasile) - Portoghese (Brasile, Dvorak)"
+Language=pt
+Label="br (dvorak)"
+
+[keyboard-br-nativo]
+Description="Keyboard - Portoghese (Brasile) - Portoghese (Brasile, nativa)"
+Language=pt
+Label="br (nativo)"
+
+[keyboard-br-rus]
+Description="Keyboard - Portoghese (Brasile) - Russian (Brazil, phonetic)"
+Language=ru
+Label="ru (rus)"
+
+[keyboard-br-nativo-us]
+Description="Keyboard - Portoghese (Brasile) - Portoghese (Brasile, nativa per tastiere USA)"
+Language=pt
+Label="br (nativo-us)"
+
+[keyboard-br-nativo-epo]
+Description="Keyboard - Portoghese (Brasile) - Esperanto (Brasile, nativa)"
+Language=eo
+Label="br (nativo-epo)"
+
+[keyboard-br-thinkpad]
+Description="Keyboard - Portoghese (Brasile) - Portoghese (Brasile, IBM/Lenovo ThinkPad)"
+Language=pt
+Label="br (thinkpad)"
+
+[keyboard-br-sun_type6]
+Description="Keyboard - Portoghese (Brasile) - Portoghese (Brasile, Sun Type 6/7)"
+Language=pt
+Label="br (sun_type6)"
+
+[keyboard-in]
+Description="Keyboard - Indiana"
+Language=hi
+Label=in
+
+[keyboard-in-ben]
+Description="Keyboard - Indiana - Bengalese (India)"
+Language=bn
+Label="bn (ben)"
+
+[keyboard-in-ben_probhat]
+Description="Keyboard - Indiana - Bengalese (India, Probhat)"
+Language=bn
+Label="bn (ben_probhat)"
+
+[keyboard-in-ben_baishakhi]
+Description="Keyboard - Indiana - Bengalese (India, Baishakhi)"
+Language=bn
+Label="in (ben_baishakhi)"
+
+[keyboard-in-ben_bornona]
+Description="Keyboard - Indiana - Bengalese (India, Bornona)"
+Language=bn
+Label="in (ben_bornona)"
+
+[keyboard-in-ben_gitanjali]
+Description="Keyboard - Indiana - Bengalese (India, Gitanjali)"
+Language=bn
+Label="in (ben_gitanjali)"
+
+[keyboard-in-ben_inscript]
+Description="Keyboard - Indiana - Bangla (India, Baishakhi InScript)"
+Language=bn
+Label="in (ben_inscript)"
+
+[keyboard-in-eeyek]
+Description="Keyboard - Indiana - Manipuri (Eeyek)"
+Language=mni
+Label="in (eeyek)"
+
+[keyboard-in-guj]
+Description="Keyboard - Indiana - Gujarati"
+Language=gu
+Label="gu (guj)"
+
+[keyboard-in-guj-kagapa]
+Description="Keyboard - Indiana - Gujarati (KaGaPa, phonetic)"
+Language=gu
+Label="guj (guj-kagapa)"
+
+[keyboard-in-guru]
+Description="Keyboard - Indiana - Punjabi (Gurmukhi)"
+Language=pa
+Label="pa (guru)"
+
+[keyboard-in-jhelum]
+Description="Keyboard - Indiana - Punjabi (Gurmukhi Jhelum)"
+Language=pa
+Label="pa (jhelum)"
+
+[keyboard-in-kan]
+Description="Keyboard - Indiana - Kannada"
+Language=kn
+Label="kn (kan)"
+
+[keyboard-in-kan-kagapa]
+Description="Keyboard - Indiana - Kannada (KaGaPa, fonetica)"
+Language=kn
+Label="kn (kan-kagapa)"
+
+[keyboard-in-mal]
+Description="Keyboard - Indiana - Malayalam"
+Language=ml
+Label="ml (mal)"
+
+[keyboard-in-mal_lalitha]
+Description="Keyboard - Indiana - Malayalam (lalitha)"
+Language=ml
+Label="ml (mal_lalitha)"
+
+[keyboard-in-mal_enhanced]
+Description="Keyboard - Indiana - Malayalam (enhanced InScript, with rupee)"
+Language=ml
+Label="ml (mal_enhanced)"
+
+[keyboard-in-mal_poorna]
+Description="Keyboard - Indiana - Malayalam (Poorna, extended InScript)"
+Language=ml
+Label="ml (mal_poorna)"
+
+[keyboard-in-ori]
+Description="Keyboard - Indiana - Oriya"
+Language=or
+Label="or (ori)"
+
+[keyboard-in-ori-bolnagri]
+Description="Keyboard - Indiana - Oriya (Bolnagri)"
+Language=or
+Label="or (ori-bolnagri)"
+
+[keyboard-in-ori-wx]
+Description="Keyboard - Indiana - Oriya (Wx)"
+Language=or
+Label="or (ori-wx)"
+
+[keyboard-in-olck]
+Description="Keyboard - Indiana - Ol Chiki"
+Language=sat
+Label="sat (olck)"
+
+[keyboard-in-tamilnet]
+Description="Keyboard - Indiana - Tamil (TamilNet '99)"
+Language=ta
+Label="ta (tamilnet)"
+
+[keyboard-in-tamilnet_tamilnumbers]
+Description="Keyboard - Indiana - Tamil (TamilNet '99 con numeri Tamil)"
+Language=ta
+Label="ta (tamilnet_tamilnumbers)"
+
+[keyboard-in-tamilnet_TAB]
+Description="Keyboard - Indiana - Tamil (TamilNet '99, codifica TAB)"
+Language=ta
+Label="ta (tamilnet_TAB)"
+
+[keyboard-in-tamilnet_TSCII]
+Description="Keyboard - Indiana - Tamil (TamilNet '99, codifica TSCII)"
+Language=ta
+Label="ta (tamilnet_TSCII)"
+
+[keyboard-in-tam]
+Description="Keyboard - Indiana - Tamil (InScript, with Arabic numerals)"
+Language=ta
+Label="ta (tam)"
+
+[keyboard-in-tam_tamilnumbers]
+Description="Keyboard - Indiana - Tamil (InScript, with Tamil numerals)"
+Language=ta
+Label="ta (tam_tamilnumbers)"
+
+[keyboard-in-tel]
+Description="Keyboard - Indiana - Telegu"
+Language=te
+Label="te (tel)"
+
+[keyboard-in-tel-kagapa]
+Description="Keyboard - Indiana - Telugu (KaGaPa, fonetica)"
+Language=te
+Label="te (tel-kagapa)"
+
+[keyboard-in-tel-sarala]
+Description="Keyboard - Indiana - Telugu (Sarala)"
+Language=te
+Label="te (tel-sarala)"
+
+[keyboard-in-urd-phonetic]
+Description="Keyboard - Indiana - Urdu (fonetica)"
+Language=ur
+Label="ur (urd-phonetic)"
+
+[keyboard-in-urd-phonetic3]
+Description="Keyboard - Indiana - Urdu (fonetica alt.)"
+Language=ur
+Label="ur (urd-phonetic3)"
+
+[keyboard-in-urd-winkeys]
+Description="Keyboard - Indiana - Urdu (Windows)"
+Language=ur
+Label="ur (urd-winkeys)"
+
+[keyboard-in-bolnagri]
+Description="Keyboard - Indiana - Hindi (bolnagri)"
+Language=hi
+Label="hi (bolnagri)"
+
+[keyboard-in-hin-wx]
+Description="Keyboard - Indiana - Hindi (Wx)"
+Language=hi
+Label="hi (hin-wx)"
+
+[keyboard-in-hin-kagapa]
+Description="Keyboard - Indiana - Hindi (KaGaPa, fonetica)"
+Language=hi
+Label="hi (hin-kagapa)"
+
+[keyboard-in-san-kagapa]
+Description="Keyboard - Indiana - Sanscritto (KaGaPa, fonetica)"
+Language=sa
+Label="sa (san-kagapa)"
+
+[keyboard-in-mar-kagapa]
+Description="Keyboard - Indiana - Marathi (KaGaPa, fonetica)"
+Language=mr
+Label="mr (mar-kagapa)"
+
+[keyboard-in-eng]
+Description="Keyboard - Indiana - Inglese (India, con rupia)"
+Language=en
+Label="en (eng)"
+
+[keyboard-in-iipa]
+Description="Keyboard - Indiana - Indic IPA"
+Language=en
+Label="in (iipa)"
+
+[keyboard-in-marathi]
+Description="Keyboard - Indiana - Marathi (enhanced InScript)"
+Language=mr
+Label="in (marathi)"
+
+[keyboard-in-modi-kagapa]
+Description="Keyboard - Indiana - Modi (fonetica KaGaPa)"
+Language=mr
+Label="mr (modi-kagapa)"
+
+[keyboard-in-san-misc]
+Description="Keyboard - Indiana - Sanskrit symbols"
+Language=sa
+Label="sas (san-misc)"
+
+[keyboard-in-urd-navees]
+Description="Keyboard - Indiana - Urdu (Navees)"
+Language=ur
+Label="ur (urd-navees)"
+
+[keyboard-be]
+Description="Keyboard - Belga"
+Language=de
+Label=be
+
+[keyboard-be-oss]
+Description="Keyboard - Belga - Belga (alt.)"
+Language=de
+Label="be (oss)"
+
+[keyboard-be-oss_latin9]
+Description="Keyboard - Belga - Belga (solo Latin-9, alt.)"
+Language=de
+Label="be (oss_latin9)"
+
+[keyboard-be-iso-alternate]
+Description="Keyboard - Belga - Belga (ISO, alt.)"
+Language=de
+Label="be (iso-alternate)"
+
+[keyboard-be-nodeadkeys]
+Description="Keyboard - Belga - Belga (senza tasti muti)"
+Language=de
+Label="be (nodeadkeys)"
+
+[keyboard-be-wang]
+Description="Keyboard - Belga - Belga (Wang 724 AZERTY)"
+Language=de
+Label="be (wang)"
+
+[keyboard-be-sun_type6]
+Description="Keyboard - Belga - Belga (Sun Type 6/7)"
+Language=de
+Label="be (sun_type6)"
+
+[keyboard-eg]
+Description="Keyboard - Copto"
+Language=cop
+Label=cop
+
+[keyboard-cd]
+Description="Keyboard - Francese (Repubblica Democratica del Congo)"
+Language=fr
+Label=fr
+
+[keyboard-ba]
+Description="Keyboard - Bosniaca"
+Language=bs
+Label=bs
+
+[keyboard-ba-alternatequotes]
+Description="Keyboard - Bosniaca - Bosniaca (con caporali)"
+Language=bs
+Label="ba (alternatequotes)"
+
+[keyboard-ba-unicode]
+Description="Keyboard - Bosniaca - Bosniaca (con digrammi bosniaci)"
+Language=bs
+Label="ba (unicode)"
+
+[keyboard-ba-unicodeus]
+Description="Keyboard - Bosniaca - Bosniaca (USA, con digrammi bosniaci)"
+Language=bs
+Label="ba (unicodeus)"
+
+[keyboard-ba-us]
+Description="Keyboard - Bosniaca - Bosniaca (USA)"
+Language=bs
+Label="ba (us)"
+
+[keyboard-lv]
+Description="Keyboard - Lettone"
+Language=lv
+Label=lv
+
+[keyboard-lv-apostrophe]
+Description="Keyboard - Lettone - Lettone (apostrofo)"
+Language=lv
+Label="lv (apostrophe)"
+
+[keyboard-lv-tilde]
+Description="Keyboard - Lettone - Lettone (tilde)"
+Language=lv
+Label="lv (tilde)"
+
+[keyboard-lv-fkey]
+Description="Keyboard - Lettone - Lettone (F)"
+Language=lv
+Label="lv (fkey)"
+
+[keyboard-lv-modern]
+Description="Keyboard - Lettone - Latvian (Modern Latin)"
+Language=lv
+Label="lv (modern)"
+
+[keyboard-lv-modern-cyr]
+Description="Keyboard - Lettone - Latvian (Modern Cyrillic)"
+Language=lv
+Label="lv (modern-cyr)"
+
+[keyboard-lv-ergonomic]
+Description="Keyboard - Lettone - Lettone (ergonomica, ŪGJRMV)"
+Language=lv
+Label="lv (ergonomic)"
+
+[keyboard-lv-adapted]
+Description="Keyboard - Lettone - Lettone (adattata)"
+Language=lv
+Label="lv (adapted)"
+
+[keyboard-lv-dvorak]
+Description="Keyboard - Lettone - Lettone (Dvorak)"
+Language=lv
+Label="lv (dvorak)"
+
+[keyboard-lv-ykeydvorak]
+Description="Keyboard - Lettone - Lettone (Dvorak, con Y)"
+Language=lv
+Label="lv (ykeydvorak)"
+
+[keyboard-lv-minuskeydvorak]
+Description="Keyboard - Lettone - Lettone (Dvorak, con meno)"
+Language=lv
+Label="lv (minuskeydvorak)"
+
+[keyboard-lv-dvorakprogr]
+Description="Keyboard - Lettone - Lettone (Dvorak per programmatori)"
+Language=lv
+Label="lv (dvorakprogr)"
+
+[keyboard-lv-ykeydvorakprogr]
+Description="Keyboard - Lettone - Lettone (Dvorak per programmatori, con Y)"
+Language=lv
+Label="lv (ykeydvorakprogr)"
+
+[keyboard-lv-minuskeydvorakprogr]
+Description="Keyboard - Lettone - Lettone (Dvorak per programmatori, con meno)"
+Language=lv
+Label="lv (minuskeydvorakprogr)"
+
+[keyboard-lv-colemak]
+Description="Keyboard - Lettone - Lettone (Colemak)"
+Language=lv
+Label="lv (colemak)"
+
+[keyboard-lv-apostrophecolemak]
+Description="Keyboard - Lettone - Lettone (Colemak, con apostrofo)"
+Language=lv
+Label="lv (apostrophecolemak)"
+
+[keyboard-lv-sun_type6]
+Description="Keyboard - Lettone - Lettone (Sun Type 6/7)"
+Language=lv
+Label="lv (sun_type6)"
+
+[keyboard-lv-apostrophe-deadquotes]
+Description="Keyboard - Lettone - Latvian (apostrophe, dead quotes)"
+Language=lv
+Label="lv (apostrophe-deadquotes)"
+
+[keyboard-me]
+Description="Keyboard - Montenegrina"
+Language=sr
+Label=sr
+
+[keyboard-me-cyrillic]
+Description="Keyboard - Montenegrina - Montenegrina (cirillico)"
+Language=sr
+Label="me (cyrillic)"
+
+[keyboard-me-cyrillicyz]
+Description="Keyboard - Montenegrina - Montenegrina (cirillico, ZE e ZHE scambiati)"
+Language=sr
+Label="me (cyrillicyz)"
+
+[keyboard-me-latinunicode]
+Description="Keyboard - Montenegrina - Montenegrina (latina, Unicode)"
+Language=sr
+Label="me (latinunicode)"
+
+[keyboard-me-latinyz]
+Description="Keyboard - Montenegrina - Montenegrina (latina, QWERTY)"
+Language=sr
+Label="me (latinyz)"
+
+[keyboard-me-latinunicodeyz]
+Description="Keyboard - Montenegrina - Montenegrina (latina, Unicode, QWERTY)"
+Language=sr
+Label="me (latinunicodeyz)"
+
+[keyboard-me-cyrillicalternatequotes]
+Description="Keyboard - Montenegrina - Montenegrina (cirillico, con caporali)"
+Language=sr
+Label="me (cyrillicalternatequotes)"
+
+[keyboard-me-latinalternatequotes]
+Description="Keyboard - Montenegrina - Montenegrina (latina, con caporali)"
+Language=sr
+Label="me (latinalternatequotes)"
+
+[keyboard-at]
+Description="Keyboard - Tedesca (Austria)"
+Language=de
+Label=de
+
+[keyboard-at-nodeadkeys]
+Description="Keyboard - Tedesca (Austria) - Tedesca (Austria, senza tasti muti)"
+Language=de
+Label="at (nodeadkeys)"
+
+[keyboard-at-mac]
+Description="Keyboard - Tedesca (Austria) - Tedesca (Austria, Macintosh)"
+Language=de
+Label="at (mac)"
+
+[keyboard-ch]
+Description="Keyboard - Tedesca (Svizzera)"
+Language=de
+Label=de
+
+[keyboard-ch-legacy]
+Description="Keyboard - Tedesca (Svizzera) - Tedesca (Svizzera, vecchia maniera)"
+Language=de
+Label="ch (legacy)"
+
+[keyboard-ch-de_nodeadkeys]
+Description="Keyboard - Tedesca (Svizzera) - Tedesca (Svizzera, senza tasti muti)"
+Language=de
+Label="de (de_nodeadkeys)"
+
+[keyboard-ch-fr]
+Description="Keyboard - Tedesca (Svizzera) - Francese (Svizzera)"
+Language=fr
+Label=fr
+
+[keyboard-ch-fr_nodeadkeys]
+Description="Keyboard - Tedesca (Svizzera) - Francese (Svizzera, senza tasti muti)"
+Language=fr
+Label="fr (fr_nodeadkeys)"
+
+[keyboard-ch-fr_mac]
+Description="Keyboard - Tedesca (Svizzera) - Francese (Svizzera, Macintosh)"
+Language=fr
+Label="fr (fr_mac)"
+
+[keyboard-ch-de_mac]
+Description="Keyboard - Tedesca (Svizzera) - Tedesca (Svizzera, Macintosh)"
+Language=de
+Label="de (de_mac)"
+
+[keyboard-ch-sun_type6_de]
+Description="Keyboard - Tedesca (Svizzera) - Tedesca (Svizzera, Sun Type 6/7)"
+Language=de
+Label="ch (sun_type6_de)"
+
+[keyboard-ch-sun_type6_fr]
+Description="Keyboard - Tedesca (Svizzera) - Francese (Svizzera, Sun Type 6/7)"
+Language=de
+Label="ch (sun_type6_fr)"
+
+[keyboard-kz]
+Description="Keyboard - Kazaka"
+Language=kk
+Label=kk
+
+[keyboard-kz-ruskaz]
+Description="Keyboard - Kazaka - Russa (Kazakistan, con kazaco)"
+Language=ru
+Label="ru (ruskaz)"
+
+[keyboard-kz-kazrus]
+Description="Keyboard - Kazaka - Kazaka (con russo)"
+Language=kk
+Label="kz (kazrus)"
+
+[keyboard-kz-ext]
+Description="Keyboard - Kazaka - Kazaka (estesa)"
+Language=kk
+Label="kz (ext)"
+
+[keyboard-kz-latin]
+Description="Keyboard - Kazaka - Kazaka (Latina)"
+Language=kk
+Label="kz (latin)"
+
+[keyboard-iq]
+Description="Keyboard - Iracheno"
+Language=ar
+Label=ar
+
+[keyboard-iq-ku]
+Description="Keyboard - Iracheno - Curda (Iraq, latina Q)"
+Language=ku
+Label=ku
+
+[keyboard-iq-ku_f]
+Description="Keyboard - Iracheno - Curda (Iraq, F)"
+Language=ku
+Label="ku (ku_f)"
+
+[keyboard-iq-ku_alt]
+Description="Keyboard - Iracheno - Curda (Iraq, latina Alt-Q)"
+Language=ku
+Label="ku (ku_alt)"
+
+[keyboard-iq-ku_ara]
+Description="Keyboard - Iracheno - Curda (Iraq, arabo-latina)"
+Language=ku
+Label="ku (ku_ara)"
+
+[keyboard-fo]
+Description="Keyboard - Faeroese"
+Language=fo
+Label=fo
+
+[keyboard-fo-nodeadkeys]
+Description="Keyboard - Faeroese - Faeroese (senza tasti muti)"
+Language=fo
+Label="fo (nodeadkeys)"
+
+[keyboard-mk]
+Description="Keyboard - Macedone"
+Language=mk
+Label=mk
+
+[keyboard-mk-nodeadkeys]
+Description="Keyboard - Macedone - Macedone (senza tasti muti)"
+Language=mk
+Label="mk (nodeadkeys)"
+
+[keyboard-cn]
+Description="Keyboard - Cinese"
+Language=zh
+Label=zh
+
+[keyboard-cn-mon_trad]
+Description="Keyboard - Cinese - Mongola (Bichig)"
+Language=mvf
+Label="cn (mon_trad)"
+
+[keyboard-cn-mon_trad_todo]
+Description="Keyboard - Cinese - Mongola (Todo)"
+Language=mvf
+Label="cn (mon_trad_todo)"
+
+[keyboard-cn-mon_trad_xibe]
+Description="Keyboard - Cinese - Mongola (Xibe)"
+Language=sjo
+Label="cn (mon_trad_xibe)"
+
+[keyboard-cn-mon_trad_manchu]
+Description="Keyboard - Cinese - Mongola (Manchu)"
+Language=mnc
+Label="cn (mon_trad_manchu)"
+
+[keyboard-cn-mon_trad_galik]
+Description="Keyboard - Cinese - Mongola (Galik)"
+Language=mvf
+Label="cn (mon_trad_galik)"
+
+[keyboard-cn-mon_todo_galik]
+Description="Keyboard - Cinese - Mongola (Todo Galik)"
+Language=mvf
+Label="cn (mon_todo_galik)"
+
+[keyboard-cn-mon_manchu_galik]
+Description="Keyboard - Cinese - Mongola (Manchu Galik)"
+Language=mnc
+Label="cn (mon_manchu_galik)"
+
+[keyboard-cn-tib]
+Description="Keyboard - Cinese - Tibetana"
+Language=bo
+Label="cn (tib)"
+
+[keyboard-cn-tib_asciinum]
+Description="Keyboard - Cinese - Tibetana (con numeri ASCII)"
+Language=bo
+Label="cn (tib_asciinum)"
+
+[keyboard-cn-ug]
+Description="Keyboard - Cinese - Uyghura"
+Language=ug
+Label=ug
+
+[keyboard-cn-altgr-pinyin]
+Description="Keyboard - Cinese - Hanyu Pinyin Letters (with AltGr dead keys)"
+Language=zh
+Label="cn (altgr-pinyin)"
+
+[keyboard-ca]
+Description="Keyboard - Francese (Canada)"
+Language=fr
+Label=fr
+
+[keyboard-ca-fr-dvorak]
+Description="Keyboard - Francese (Canada) - Francese (Canada, Dvorak)"
+Language=fr
+Label="fr (fr-dvorak)"
+
+[keyboard-ca-fr-legacy]
+Description="Keyboard - Francese (Canada) - Francese (Canada, vecchia maniera)"
+Language=fr
+Label="fr (fr-legacy)"
+
+[keyboard-ca-multix]
+Description="Keyboard - Francese (Canada) - Canadian (CSA)"
+Language=fr
+Label="ca (multix)"
+
+[keyboard-ca-ike]
+Description="Keyboard - Francese (Canada) - Inuktitut"
+Language=iu
+Label=ike
+
+[keyboard-ca-eng]
+Description="Keyboard - Francese (Canada) - Inglese (Canada)"
+Language=en
+Label="en (eng)"
+
+[keyboard-ca-kut]
+Description="Keyboard - Francese (Canada) - Kutenai"
+Language=fr
+Label=kut
+
+[keyboard-ca-shs]
+Description="Keyboard - Francese (Canada) - Secwepemctsin"
+Language=fr
+Label=shs
+
+[keyboard-ca-sun_type6]
+Description="Keyboard - Francese (Canada) - Multilingua (Canada, Sun Type 6/7)"
+Language=fr
+Label="ca (sun_type6)"
+
+[keyboard-gh]
+Description="Keyboard - Inglese (Ghana)"
+Language=en
+Label=en
+
+[keyboard-gh-generic]
+Description="Keyboard - Inglese (Ghana) - Inglese (Ghana, multilingue)"
+Language=en
+Label="gh (generic)"
+
+[keyboard-gh-akan]
+Description="Keyboard - Inglese (Ghana) - Akan"
+Language=ak
+Label="ak (akan)"
+
+[keyboard-gh-ewe]
+Description="Keyboard - Inglese (Ghana) - Ewe"
+Language=ee
+Label="ee (ewe)"
+
+[keyboard-gh-fula]
+Description="Keyboard - Inglese (Ghana) - Fula"
+Language=ff
+Label="ff (fula)"
+
+[keyboard-gh-ga]
+Description="Keyboard - Inglese (Ghana) - Ga"
+Language=gaa
+Label="gaa (ga)"
+
+[keyboard-gh-hausa]
+Description="Keyboard - Inglese (Ghana) - Hausa (Ghana)"
+Language=ha
+Label="ha (hausa)"
+
+[keyboard-gh-avn]
+Description="Keyboard - Inglese (Ghana) - Avatime"
+Language=avn
+Label=avn
+
+[keyboard-gh-gillbt]
+Description="Keyboard - Inglese (Ghana) - Inglese (Ghana, GILLBT)"
+Language=en
+Label="gh (gillbt)"
+
+[keyboard-fr]
+Description="Keyboard - Francese"
+Language=fr
+Label=fr
+
+[keyboard-fr-nodeadkeys]
+Description="Keyboard - Francese - Francese (senza tasti muti)"
+Language=fr
+Label="fr (nodeadkeys)"
+
+[keyboard-fr-oss]
+Description="Keyboard - Francese - Francese (alt.)"
+Language=fr
+Label="fr (oss)"
+
+[keyboard-fr-oss_latin9]
+Description="Keyboard - Francese - Francese (alt., solo Latin-9)"
+Language=fr
+Label="fr (oss_latin9)"
+
+[keyboard-fr-oss_nodeadkeys]
+Description="Keyboard - Francese - Francese (alt., senza tasti muti)"
+Language=fr
+Label="fr (oss_nodeadkeys)"
+
+[keyboard-fr-latin9]
+Description="Keyboard - Francese - Francese (vecchia maniera, alt.)"
+Language=fr
+Label="fr (latin9)"
+
+[keyboard-fr-latin9_nodeadkeys]
+Description="Keyboard - Francese - Francese (vecchia maniera, alt., senza tasti muti)"
+Language=fr
+Label="fr (latin9_nodeadkeys)"
+
+[keyboard-fr-bepo]
+Description="Keyboard - Francese - Francese (BEPO)"
+Language=fr
+Label="fr (bepo)"
+
+[keyboard-fr-bepo_latin9]
+Description="Keyboard - Francese - Francese (BEPO, solo Latin-9)"
+Language=fr
+Label="fr (bepo_latin9)"
+
+[keyboard-fr-bepo_afnor]
+Description="Keyboard - Francese - Francese (BEPO, AFNOR)"
+Language=fr
+Label="fr (bepo_afnor)"
+
+[keyboard-fr-dvorak]
+Description="Keyboard - Francese - Francese (Dvorak)"
+Language=fr
+Label="fr (dvorak)"
+
+[keyboard-fr-mac]
+Description="Keyboard - Francese - Francese (Macintosh)"
+Language=fr
+Label="fr (mac)"
+
+[keyboard-fr-azerty]
+Description="Keyboard - Francese - Francese (AZERTY)"
+Language=fr
+Label="fr (azerty)"
+
+[keyboard-fr-afnor]
+Description="Keyboard - Francese - Francese (AZERTY, AFNOR)"
+Language=fr
+Label="fr (afnor)"
+
+[keyboard-fr-bre]
+Description="Keyboard - Francese - Breton (France)"
+Language=br
+Label="fr (bre)"
+
+[keyboard-fr-oci]
+Description="Keyboard - Francese - Occitana"
+Language=oc
+Label="fr (oci)"
+
+[keyboard-fr-geo]
+Description="Keyboard - Francese - Georgiana (Francia, AZERTY Tskapo)"
+Language=ka
+Label="fr (geo)"
+
+[keyboard-fr-us]
+Description="Keyboard - Francese - Francese (USA)"
+Language=fr
+Label="fr (us)"
+
+[keyboard-fr-sun_type6]
+Description="Keyboard - Francese - Francese (Sun Type 6/7)"
+Language=fr
+Label="fr (sun_type6)"
+
+[keyboard-fr-us-alt]
+Description="Keyboard - Francese - Francese (USA con tasti muti, alt.)"
+Language=fr
+Label="fr (us-alt)"
+
+[keyboard-fr-us-azerty]
+Description="Keyboard - Francese - Francese (USA, AZERTY)"
+Language=fr
+Label="fr (us-azerty)"
+
+[keyboard-gn]
+Description="Keyboard - N'Ko (AZERTY)"
+Language=nqo
+Label=nqo
+
+[keyboard-uz]
+Description="Keyboard - Uzbeka"
+Language=uz
+Label=uz
+
+[keyboard-uz-latin]
+Description="Keyboard - Uzbeka - Uzbeka (latina)"
+Language=uz
+Label="uz (latin)"
+
+[keyboard-fi]
+Description="Keyboard - Finlandese"
+Language=fi
+Label=fi
+
+[keyboard-fi-winkeys]
+Description="Keyboard - Finlandese - Finlandese (Windows)"
+Language=fi
+Label="fi (winkeys)"
+
+[keyboard-fi-classic]
+Description="Keyboard - Finlandese - Finlandese (classica)"
+Language=fi
+Label="fi (classic)"
+
+[keyboard-fi-nodeadkeys]
+Description="Keyboard - Finlandese - Finlandese (classica, senza tasti muti)"
+Language=fi
+Label="fi (nodeadkeys)"
+
+[keyboard-fi-smi]
+Description="Keyboard - Finlandese - Saami settentrionale (Finlandia)"
+Language=se
+Label="fi (smi)"
+
+[keyboard-fi-mac]
+Description="Keyboard - Finlandese - Finlandese (Macintosh)"
+Language=fi
+Label="fi (mac)"
+
+[keyboard-fi-sun_type6]
+Description="Keyboard - Finlandese - Finlandese (Sun Type 6/7)"
+Language=fi
+Label="fi (sun_type6)"
+
+[keyboard-fi-das]
+Description="Keyboard - Finlandese - Finlandese (DAS)"
+Language=fi
+Label="fi (das)"
+
+[keyboard-fi-fidvorak]
+Description="Keyboard - Finlandese - Finlandese (Dvorak)"
+Language=fi
+Label="fi (fidvorak)"
+
+[keyboard-lt]
+Description="Keyboard - Lituana"
+Language=lt
+Label=lt
+
+[keyboard-lt-std]
+Description="Keyboard - Lituana - Lituana (standard)"
+Language=lt
+Label="lt (std)"
+
+[keyboard-lt-us]
+Description="Keyboard - Lituana - Lituana (USA)"
+Language=lt
+Label="lt (us)"
+
+[keyboard-lt-ibm]
+Description="Keyboard - Lituana - Lituana (IBM LST 1205-92)"
+Language=lt
+Label="lt (ibm)"
+
+[keyboard-lt-lekp]
+Description="Keyboard - Lituana - Lituana (LEKP)"
+Language=lt
+Label="lt (lekp)"
+
+[keyboard-lt-lekpa]
+Description="Keyboard - Lituana - Lituana (LEKPa)"
+Language=lt
+Label="lt (lekpa)"
+
+[keyboard-lt-sgs]
+Description="Keyboard - Lituana - Samogitica"
+Language=sgs
+Label="lt (sgs)"
+
+[keyboard-lt-ratise]
+Description="Keyboard - Lituana - Lithuanian (Ratise)"
+Language=lt
+Label="lt (ratise)"
+
+[keyboard-lt-us_dvorak]
+Description="Keyboard - Lituana - Lituana (Dvorak)"
+Language=lt
+Label="lt (us_dvorak)"
+
+[keyboard-lt-sun_type6]
+Description="Keyboard - Lituana - Lituana (Sun Type 6/7)"
+Language=lt
+Label="lt (sun_type6)"
+
+[keyboard-my]
+Description="Keyboard - Malay (Jawi, tastiera araba)"
+Language=id
+Label=ms
+
+[keyboard-my-phonetic]
+Description="Keyboard - Malay (Jawi, tastiera araba) - Malay (Jawi, fonetica)"
+Language=id
+Label="my (phonetic)"
+
+[keyboard-pt]
+Description="Keyboard - Portoghese"
+Language=pt
+Label=pt
+
+[keyboard-pt-nodeadkeys]
+Description="Keyboard - Portoghese - Portoghese (senza tasti muti)"
+Language=pt
+Label="pt (nodeadkeys)"
+
+[keyboard-pt-mac]
+Description="Keyboard - Portoghese - Portoghese (Macintosh)"
+Language=pt
+Label="pt (mac)"
+
+[keyboard-pt-mac_nodeadkeys]
+Description="Keyboard - Portoghese - Portoghese (Macintosh, senza tasti muti)"
+Language=pt
+Label="pt (mac_nodeadkeys)"
+
+[keyboard-pt-nativo]
+Description="Keyboard - Portoghese - Portoghese (nativa)"
+Language=pt
+Label="pt (nativo)"
+
+[keyboard-pt-nativo-us]
+Description="Keyboard - Portoghese - Portoghese (nativa per tastiere USA)"
+Language=pt
+Label="pt (nativo-us)"
+
+[keyboard-pt-nativo-epo]
+Description="Keyboard - Portoghese - Esperanto (Portogallo, Nativo)"
+Language=eo
+Label="pt (nativo-epo)"
+
+[keyboard-pt-sun_type6]
+Description="Keyboard - Portoghese - Portoghese (Sun Type 6/7)"
+Language=pt
+Label="pt (sun_type6)"
+
+[keyboard-pt-colemak]
+Description="Keyboard - Portoghese - Portoghese (Colemak)"
+Language=pt
+Label="pt (colemak)"
+
+[keyboard-id]
+Description="Keyboard - Indonesian (Latin)"
+Language=id
+Label=id
+
+[keyboard-id-javanese]
+Description="Keyboard - Indonesian (Latin) - Javanese"
+Language=jax
+Label="id (javanese)"
+
+[keyboard-id-melayu-phonetic]
+Description="Keyboard - Indonesian (Latin) - Indonesiana (Arab Melayu, fonetica)"
+Language=id
+Label="id (melayu-phonetic)"
+
+[keyboard-id-melayu-phoneticx]
+Description="Keyboard - Indonesian (Latin) - Indonesiana (Arab Melayu, fonetica estesa)"
+Language=id
+Label="id (melayu-phoneticx)"
+
+[keyboard-id-pegon-phonetic]
+Description="Keyboard - Indonesian (Latin) - Indonesian (Arab Pegon, phonetic)"
+Language=id
+Label="id (pegon-phonetic)"
+
+[keyboard-de]
+Description="Keyboard - Tedesca"
+Language=de
+Label=de
+
+[keyboard-de-deadacute]
+Description="Keyboard - Tedesca - Tedesca (acuto muto)"
+Language=de
+Label="de (deadacute)"
+
+[keyboard-de-deadgraveacute]
+Description="Keyboard - Tedesca - Tedesca (acuto grave muto)"
+Language=de
+Label="de (deadgraveacute)"
+
+[keyboard-de-nodeadkeys]
+Description="Keyboard - Tedesca - Tedesca (senza tasti muti)"
+Language=de
+Label="de (nodeadkeys)"
+
+[keyboard-de-e1]
+Description="Keyboard - Tedesca - Tedesca (E1)"
+Language=de
+Label="de (e1)"
+
+[keyboard-de-e2]
+Description="Keyboard - Tedesca - Tedesca (E2)"
+Language=de
+Label="de (e2)"
+
+[keyboard-de-T3]
+Description="Keyboard - Tedesca - Tedesca (T3)"
+Language=de
+Label="de (T3)"
+
+[keyboard-de-us]
+Description="Keyboard - Tedesca - Tedesca (USA)"
+Language=de
+Label="de (us)"
+
+[keyboard-de-ro]
+Description="Keyboard - Tedesca - Rumena (Germania)"
+Language=ro
+Label="de (ro)"
+
+[keyboard-de-ro_nodeadkeys]
+Description="Keyboard - Tedesca - Rumena (Germania, senza tasti muti)"
+Language=ro
+Label="de (ro_nodeadkeys)"
+
+[keyboard-de-dvorak]
+Description="Keyboard - Tedesca - Tedesca (Dvorak)"
+Language=de
+Label="de (dvorak)"
+
+[keyboard-de-neo]
+Description="Keyboard - Tedesca - Tedesca (Neo 2)"
+Language=de
+Label="de (neo)"
+
+[keyboard-de-mac]
+Description="Keyboard - Tedesca - Tedesca (Macintosh)"
+Language=de
+Label="de (mac)"
+
+[keyboard-de-mac_nodeadkeys]
+Description="Keyboard - Tedesca - Tedesca (Macintosh, senza tasti muti)"
+Language=de
+Label="de (mac_nodeadkeys)"
+
+[keyboard-de-dsb]
+Description="Keyboard - Tedesca - Soraba inferiore"
+Language=dsb
+Label="de (dsb)"
+
+[keyboard-de-dsb_qwertz]
+Description="Keyboard - Tedesca - Bassa Soraba (QWERTZ)"
+Language=dsb
+Label="de (dsb_qwertz)"
+
+[keyboard-de-qwerty]
+Description="Keyboard - Tedesca - Tedesca (QWERTY)"
+Language=de
+Label="de (qwerty)"
+
+[keyboard-de-tr]
+Description="Keyboard - Tedesca - Turca (Germania)"
+Language=tr
+Label="de (tr)"
+
+[keyboard-de-ru]
+Description="Keyboard - Tedesca - Russa (Germania, fonetica)"
+Language=ru
+Label=ru
+
+[keyboard-de-deadtilde]
+Description="Keyboard - Tedesca - Tedesca (tilde muto)"
+Language=de
+Label="de (deadtilde)"
+
+[keyboard-de-hu]
+Description="Keyboard - Tedesca - Tedesca (con lettere ungheresi, senza tasti muti)"
+Language=de
+Label="de (hu)"
+
+[keyboard-de-pl]
+Description="Keyboard - Tedesca - Polacca (Germania, senza tasti muti)"
+Language=de
+Label="de (pl)"
+
+[keyboard-de-sun_type6]
+Description="Keyboard - Tedesca - Tedesca (Sun Type 6/7)"
+Language=de
+Label="de (sun_type6)"
+
+[keyboard-de-adnw]
+Description="Keyboard - Tedesca - Tedesca (dal Neo-Mondo)"
+Language=de
+Label="de (adnw)"
+
+[keyboard-de-koy]
+Description="Keyboard - Tedesca - Tedesca (KOY)"
+Language=de
+Label="de (koy)"
+
+[keyboard-de-bone]
+Description="Keyboard - Tedesca - Tedesca (Bone)"
+Language=de
+Label="de (bone)"
+
+[keyboard-de-bone_eszett_home]
+Description="Keyboard - Tedesca - Tedesca (Bone, eszett nella home row)"
+Language=de
+Label="de (bone_eszett_home)"
+
+[keyboard-de-neo_qwertz]
+Description="Keyboard - Tedesca - Tedesca (Neo, QWERTZ)"
+Language=de
+Label="de (neo_qwertz)"
+
+[keyboard-de-neo_qwerty]
+Description="Keyboard - Tedesca - Tedesca (Neo, QWERTY)"
+Language=de
+Label="de (neo_qwerty)"
+
+[keyboard-de-ru-recom]
+Description="Keyboard - Tedesca - Russa (Germania, raccomandata)"
+Language=ru
+Label="ru (ru-recom)"
+
+[keyboard-de-ru-translit]
+Description="Keyboard - Tedesca - Russa (Germania, traslitterazione)"
+Language=ru
+Label="ru (ru-translit)"
+
+[keyboard-de-lld]
+Description="Keyboard - Tedesca - Tedesca (Ladin)"
+Language=de
+Label="de_lld (lld)"
+
+[keyboard-gr]
+Description="Keyboard - Greca"
+Language=el
+Label=gr
+
+[keyboard-gr-simple]
+Description="Keyboard - Greca - Greca (semplice)"
+Language=el
+Label="gr (simple)"
+
+[keyboard-gr-extended]
+Description="Keyboard - Greca - Greca (estesa)"
+Language=el
+Label="gr (extended)"
+
+[keyboard-gr-nodeadkeys]
+Description="Keyboard - Greca - Greca (senza tasti muti)"
+Language=el
+Label="gr (nodeadkeys)"
+
+[keyboard-gr-polytonic]
+Description="Keyboard - Greca - Greca (politonica)"
+Language=el
+Label="gr (polytonic)"
+
+[keyboard-gr-sun_type6]
+Description="Keyboard - Greca - Greca (Sun Type 6/7)"
+Language=el
+Label="gr (sun_type6)"
+
+[keyboard-gr-colemak]
+Description="Keyboard - Greca - Greca (Colemak)"
+Language=el
+Label="gr (colemak)"
+
+[keyboard-tg]
+Description="Keyboard - Francese (Togo)"
+Language=fr
+Label=fr-tg
+
+[keyboard-mao]
+Description="Keyboard - Maori"
+Language=mi
+Label=mi
+
+[keyboard-sn]
+Description="Keyboard - Wolof"
+Language=wo
+Label=wo
+
+[keyboard-kh]
+Description="Keyboard - Khmer (Cambogia)"
+Language=km
+Label=km
+
+[keyboard-az]
+Description="Keyboard - Azera"
+Language=az
+Label=az
+
+[keyboard-az-cyrillic]
+Description="Keyboard - Azera - Azera (cirillico)"
+Language=az
+Label="az (cyrillic)"
+
+[keyboard-hu]
+Description="Keyboard - Ungherese"
+Language=hu
+Label=hu
+
+[keyboard-hu-standard]
+Description="Keyboard - Ungherese - Ungherese (standard)"
+Language=hu
+Label="hu (standard)"
+
+[keyboard-hu-nodeadkeys]
+Description="Keyboard - Ungherese - Ungherese (senza tasti muti)"
+Language=hu
+Label="hu (nodeadkeys)"
+
+[keyboard-hu-qwerty]
+Description="Keyboard - Ungherese - Ungherese (QWERTY)"
+Language=hu
+Label="hu (qwerty)"
+
+[keyboard-hu-101_qwertz_comma_dead]
+Description="Keyboard - Ungherese - Ungherese (QWERTZ, 101 tasti, virgola, tasti muti)"
+Language=hu
+Label="hu (101_qwertz_comma_dead)"
+
+[keyboard-hu-101_qwertz_comma_nodead]
+Description="Keyboard - Ungherese - Ungherese (QWERTZ, 101 tasti, virgola, senza tasti muti)"
+Language=hu
+Label="hu (101_qwertz_comma_nodead)"
+
+[keyboard-hu-101_qwertz_dot_dead]
+Description="Keyboard - Ungherese - Ungherese (QWERTZ, 101 tasti, puntotasti muti)"
+Language=hu
+Label="hu (101_qwertz_dot_dead)"
+
+[keyboard-hu-101_qwertz_dot_nodead]
+Description="Keyboard - Ungherese - Ungherese (QWERTZ, 101 tasti, punto, senza tasti muti)"
+Language=hu
+Label="hu (101_qwertz_dot_nodead)"
+
+[keyboard-hu-101_qwerty_comma_dead]
+Description="Keyboard - Ungherese - Ungherese (QWERTY, 101 tasti, virgola, tasti muti)"
+Language=hu
+Label="hu (101_qwerty_comma_dead)"
+
+[keyboard-hu-101_qwerty_comma_nodead]
+Description="Keyboard - Ungherese - Ungherese (QWERTY, 101 tasti, virgola, senza tasti muti)"
+Language=hu
+Label="hu (101_qwerty_comma_nodead)"
+
+[keyboard-hu-101_qwerty_dot_dead]
+Description="Keyboard - Ungherese - Ungherese (QWERTY, 101 tasti, punto, tasti muti)"
+Language=hu
+Label="hu (101_qwerty_dot_dead)"
+
+[keyboard-hu-101_qwerty_dot_nodead]
+Description="Keyboard - Ungherese - Ungherese (QWERTY, 101 tasti, punto, senza tasti muti)"
+Language=hu
+Label="hu (101_qwerty_dot_nodead)"
+
+[keyboard-hu-102_qwertz_comma_dead]
+Description="Keyboard - Ungherese - Ungherese (QWERTZ, 102 tasti, virgola, tasti muti)"
+Language=hu
+Label="hu (102_qwertz_comma_dead)"
+
+[keyboard-hu-102_qwertz_comma_nodead]
+Description="Keyboard - Ungherese - Ungherese (QWERTZ, 102 tasti, virgola, senza tasti muti)"
+Language=hu
+Label="hu (102_qwertz_comma_nodead)"
+
+[keyboard-hu-102_qwertz_dot_dead]
+Description="Keyboard - Ungherese - Ungherese (QWERTZ, 102 tasti, punto, tasti muti)"
+Language=hu
+Label="hu (102_qwertz_dot_dead)"
+
+[keyboard-hu-102_qwertz_dot_nodead]
+Description="Keyboard - Ungherese - Ungherese (QWERTZ, 102 tasti, punto, senza tasti muti)"
+Language=hu
+Label="hu (102_qwertz_dot_nodead)"
+
+[keyboard-hu-102_qwerty_comma_dead]
+Description="Keyboard - Ungherese - Ungherese (QWERTY, 102 tasti, virgola, tasti muti)"
+Language=hu
+Label="hu (102_qwerty_comma_dead)"
+
+[keyboard-hu-102_qwerty_comma_nodead]
+Description="Keyboard - Ungherese - Ungherese (QWERTY, 102 tasti, virgola, senza tasti muti)"
+Language=hu
+Label="hu (102_qwerty_comma_nodead)"
+
+[keyboard-hu-102_qwerty_dot_dead]
+Description="Keyboard - Ungherese - Ungherese (QWERTY, 102 tasti, punto, tasti muti)"
+Language=hu
+Label="hu (102_qwerty_dot_dead)"
+
+[keyboard-hu-102_qwerty_dot_nodead]
+Description="Keyboard - Ungherese - Ungherese (QWERTY, 102 tasti, punto, senza tasti muti)"
+Language=hu
+Label="hu (102_qwerty_dot_nodead)"
+
+[keyboard-hu-oldhun]
+Description="Keyboard - Ungherese - Ungherese antica"
+Language=hu
+Label=oldhun
+
+[keyboard-hu-oldhunlig]
+Description="Keyboard - Ungherese - Ungherese vecchia (per le ligature)"
+Language=hu
+Label="oldhun(lig) (oldhunlig)"
+
+[keyboard-tr]
+Description="Keyboard - Turca"
+Language=tr
+Label=tr
+
+[keyboard-tr-f]
+Description="Keyboard - Turca - Turca (F)"
+Language=tr
+Label="tr (f)"
+
+[keyboard-tr-e]
+Description="Keyboard - Turca - Turkish (E)"
+Language=tr
+Label="tr (e)"
+
+[keyboard-tr-alt]
+Description="Keyboard - Turca - Turca (Alt-Q)"
+Language=tr
+Label="tr (alt)"
+
+[keyboard-tr-ku]
+Description="Keyboard - Turca - Curda (Turchia, latina Q)"
+Language=ku
+Label=ku
+
+[keyboard-tr-ku_f]
+Description="Keyboard - Turca - Curda (Turchia, F)"
+Language=ku
+Label="ku (ku_f)"
+
+[keyboard-tr-ku_alt]
+Description="Keyboard - Turca - Curda (Turchia, latina Alt-Q)"
+Language=ku
+Label="ku (ku_alt)"
+
+[keyboard-tr-intl]
+Description="Keyboard - Turca - Turca (intl., con tasti muti)"
+Language=tr
+Label="tr (intl)"
+
+[keyboard-tr-ot]
+Description="Keyboard - Turca - Ottoman (Q)"
+Language=tr
+Label="tr (ot)"
+
+[keyboard-tr-otf]
+Description="Keyboard - Turca - Ottoman (F)"
+Language=tr
+Label="tr (otf)"
+
+[keyboard-tr-otk]
+Description="Keyboard - Turca - Turca antica"
+Language=tr
+Label="tr (otk)"
+
+[keyboard-tr-otkf]
+Description="Keyboard - Turca - Old Turkic (F)"
+Language=tr
+Label="tr (otkf)"
+
+[keyboard-tr-sun_type6]
+Description="Keyboard - Turca - Turca (Sun Type 6/7)"
+Language=tr
+Label="tr (sun_type6)"
+
+[keyboard-tr-us]
+Description="Keyboard - Turca - Turkish (Turkey, Latin Q, Swap i and ı)"
+Language=tr
+Label="tr (us)"
+
+[keyboard-il]
+Description="Keyboard - Ebraica"
+Language=he
+Label=he
+
+[keyboard-il-lyx]
+Description="Keyboard - Ebraica - Ebraica (lyx)"
+Language=he
+Label="il (lyx)"
+
+[keyboard-il-phonetic]
+Description="Keyboard - Ebraica - Ebraica (fonetica)"
+Language=he
+Label="il (phonetic)"
+
+[keyboard-il-biblical]
+Description="Keyboard - Ebraica - Ebraica (biblica, Tiro)"
+Language=he
+Label="il (biblical)"
+
+[keyboard-il-biblicalSIL]
+Description="Keyboard - Ebraica - Ebraica (biblica, fonetica SIL)"
+Language=he
+Label="il (biblicalSIL)"
+
+[keyboard-it]
+Description="Keyboard - Italiana"
+Language=it
+Label=it
+
+[keyboard-it-nodeadkeys]
+Description="Keyboard - Italiana - Italiana (senza tasti muti)"
+Language=it
+Label="it (nodeadkeys)"
+
+[keyboard-it-winkeys]
+Description="Keyboard - Italiana - Italiana (Windows)"
+Language=it
+Label="it (winkeys)"
+
+[keyboard-it-mac]
+Description="Keyboard - Italiana - Italiana (Macintosh)"
+Language=it
+Label="it (mac)"
+
+[keyboard-it-us]
+Description="Keyboard - Italiana - Italiana (USA)"
+Language=it
+Label="it (us)"
+
+[keyboard-it-geo]
+Description="Keyboard - Italiana - Georgiana (Italia)"
+Language=ka
+Label="it (geo)"
+
+[keyboard-it-ibm]
+Description="Keyboard - Italiana - Italiana (IBM 142)"
+Language=it
+Label="it (ibm)"
+
+[keyboard-it-intl]
+Description="Keyboard - Italiana - Italiana (intl., con tasti muti)"
+Language=it
+Label="it (intl)"
+
+[keyboard-it-scn]
+Description="Keyboard - Italiana - Siciliana"
+Language=it
+Label="it (scn)"
+
+[keyboard-it-fur]
+Description="Keyboard - Italiana - Friulana (Italia)"
+Language=fur
+Label="it (fur)"
+
+[keyboard-it-sun_type6]
+Description="Keyboard - Italiana - Italiana (Sun Type 6/7)"
+Language=it
+Label="it (sun_type6)"
+
+[keyboard-it-lld]
+Description="Keyboard - Italiana - Italiana (Ladin)"
+Language=it
+Label="it_lld (lld)"
+
+[keyboard-it-dvorak]
+Description="Keyboard - Italiana - Italian (Dvorak)"
+Language=it
+Label="it (dvorak)"
+
+[keyboard-jp]
+Description="Keyboard - Giapponese"
+Language=ja
+Label=ja
+
+[keyboard-jp-kana]
+Description="Keyboard - Giapponese - Giapponese (Kana)"
+Language=ja
+Label="jp (kana)"
+
+[keyboard-jp-kana86]
+Description="Keyboard - Giapponese - Giapponese (Kana 86)"
+Language=ja
+Label="jp (kana86)"
+
+[keyboard-jp-OADG109A]
+Description="Keyboard - Giapponese - Giapponese (OADG 109A)"
+Language=ja
+Label="jp (OADG109A)"
+
+[keyboard-jp-mac]
+Description="Keyboard - Giapponese - Giapponese (Macintosh)"
+Language=ja
+Label="jp (mac)"
+
+[keyboard-jp-dvorak]
+Description="Keyboard - Giapponese - Giapponese (Dvorak)"
+Language=ja
+Label="jp (dvorak)"
+
+[keyboard-jp-sun_type6]
+Description="Keyboard - Giapponese - Giapponese (Sun Type 6)"
+Language=ja
+Label="jp (sun_type6)"
+
+[keyboard-jp-sun_type7]
+Description="Keyboard - Giapponese - Giapponese (Sun Type 7, pc compatibile)"
+Language=ja
+Label="jp (sun_type7)"
+
+[keyboard-jp-sun_type7_suncompat]
+Description="Keyboard - Giapponese - Giapponese (Sun Type 7, Sun compatibile)"
+Language=ja
+Label="jp (sun_type7_suncompat)"
+
+[keyboard-latam]
+Description="Keyboard - Spagnola (latino americana)"
+Language=es
+Label=es
+
+[keyboard-latam-nodeadkeys]
+Description="Keyboard - Spagnola (latino americana) - Spagnola (latino americana, senza tasti muti)"
+Language=es
+Label="latam (nodeadkeys)"
+
+[keyboard-latam-deadtilde]
+Description="Keyboard - Spagnola (latino americana) - Spagnola (latino americana, tilde muta)"
+Language=es
+Label="latam (deadtilde)"
+
+[keyboard-latam-dvorak]
+Description="Keyboard - Spagnola (latino americana) - Spagnola (latino americana, Dvorak)"
+Language=es
+Label="latam (dvorak)"
+
+[keyboard-latam-colemak]
+Description="Keyboard - Spagnola (latino americana) - Spagnola (latino americana, Colemak)"
+Language=es
+Label="latam (colemak)"
+
+[keyboard-ancient]
+Description="Keyboard - Ancient"
+Language=got
+Label=xx
+
+[keyboard-ancient-got]
+Description="Keyboard - Ancient - Gothic"
+Language=got
+Label="ancient (got)"
+
+[keyboard-ancient-uga]
+Description="Keyboard - Ancient - Ugaritic"
+Language=uga
+Label="ancient (uga)"
+
+[keyboard-ancient-ave]
+Description="Keyboard - Ancient - Avestica"
+Language=ae
+Label="ancient (ave)"
+
+[keyboard-mt]
+Description="Keyboard - Maltese"
+Language=mt
+Label=mt
+
+[keyboard-mt-us]
+Description="Keyboard - Maltese - Maltese (USA)"
+Language=mt
+Label="mt (us)"
+
+[keyboard-mt-alt-us]
+Description="Keyboard - Maltese - Maltese (US, with AltGr overrides)"
+Language=mt
+Label="mt (alt-us)"
+
+[keyboard-mt-alt-gb]
+Description="Keyboard - Maltese - Maltese (UK, con AltGr disattivati)"
+Language=mt
+Label="mt (alt-gb)"
+
+[keyboard-custom]
+Description="Keyboard - A user-defined custom Layout"
+Language=und
+Label=custom
+
+[keyboard-no]
+Description="Keyboard - Norvegese"
+Language=no
+Label=no
+
+[keyboard-no-nodeadkeys]
+Description="Keyboard - Norvegese - Norvegese (senza tasti muti)"
+Language=no
+Label="no (nodeadkeys)"
+
+[keyboard-no-winkeys]
+Description="Keyboard - Norvegese - Norvegese (Windows)"
+Language=no
+Label="no (winkeys)"
+
+[keyboard-no-dvorak]
+Description="Keyboard - Norvegese - Norvegese (Dvorak)"
+Language=no
+Label="no (dvorak)"
+
+[keyboard-no-smi]
+Description="Keyboard - Norvegese - Saami settentrionale (Norvegia)"
+Language=se
+Label="no (smi)"
+
+[keyboard-no-smi_nodeadkeys]
+Description="Keyboard - Norvegese - Saami settentrionale (Norvegia, senza tasti muti)"
+Language=se
+Label="no (smi_nodeadkeys)"
+
+[keyboard-no-mac]
+Description="Keyboard - Norvegese - Norvegese (Macintosh)"
+Language=no
+Label="no (mac)"
+
+[keyboard-no-mac_nodeadkeys]
+Description="Keyboard - Norvegese - Norvegese (Macintosh, senza tasti muti)"
+Language=no
+Label="no (mac_nodeadkeys)"
+
+[keyboard-no-colemak]
+Description="Keyboard - Norvegese - Norvegese (Colemak)"
+Language=no
+Label="no (colemak)"
+
+[keyboard-no-colemak_dh]
+Description="Keyboard - Norvegese - Norwegian (Colemak-DH)"
+Language=no
+Label="no (colemak_dh)"
+
+[keyboard-no-colemak_dh_wide]
+Description="Keyboard - Norvegese - Norwegian (Colemak-DH Wide)"
+Language=no
+Label="no (colemak_dh_wide)"
+
+[keyboard-no-sun_type6]
+Description="Keyboard - Norvegese - Norvegese (Sun Type 6/7)"
+Language=no
+Label="no (sun_type6)"
+
+[keyboard-pl]
+Description="Keyboard - Polacca"
+Language=pl
+Label=pl
+
+[keyboard-pl-legacy]
+Description="Keyboard - Polacca - Polacca (vecchia maniera)"
+Language=pl
+Label="pl (legacy)"
+
+[keyboard-pl-qwertz]
+Description="Keyboard - Polacca - Polacca (QWERTZ)"
+Language=pl
+Label="pl (qwertz)"
+
+[keyboard-pl-dvorak]
+Description="Keyboard - Polacca - Polacca (Dvorak)"
+Language=pl
+Label="pl (dvorak)"
+
+[keyboard-pl-dvorak_quotes]
+Description="Keyboard - Polacca - Polacca (Dvorak, con virgolette polacche sul tasto quotemark)"
+Language=pl
+Label="pl (dvorak_quotes)"
+
+[keyboard-pl-dvorak_altquotes]
+Description="Keyboard - Polacca - Polacca (Dvorak, con virgolette polacche sul tasto 1)"
+Language=pl
+Label="pl (dvorak_altquotes)"
+
+[keyboard-pl-csb]
+Description="Keyboard - Polacca - Casciuba"
+Language=csb
+Label="pl (csb)"
+
+[keyboard-pl-szl]
+Description="Keyboard - Polacca - Silesiana"
+Language=szl
+Label="pl (szl)"
+
+[keyboard-pl-ru_phonetic_dvorak]
+Description="Keyboard - Polacca - Russa (Polonia, Dvorak fonetica)"
+Language=ru
+Label="ru (ru_phonetic_dvorak)"
+
+[keyboard-pl-dvp]
+Description="Keyboard - Polacca - Polacca (Dvorak per programmatori)"
+Language=pl
+Label="pl (dvp)"
+
+[keyboard-pl-intl]
+Description="Keyboard - Polacca - Polacca (intl., con tasti muti)"
+Language=pl
+Label="pl (intl)"
+
+[keyboard-pl-colemak]
+Description="Keyboard - Polacca - Polacca (Colemak)"
+Language=pl
+Label="pl (colemak)"
+
+[keyboard-pl-colemak_dh_ansi]
+Description="Keyboard - Polacca - Polish (Colemak-DH)"
+Language=pl
+Label="pl (colemak_dh_ansi)"
+
+[keyboard-pl-colemak_dh]
+Description="Keyboard - Polacca - Polish (Colemak-DH ISO)"
+Language=pl
+Label="pl (colemak_dh)"
+
+[keyboard-pl-sun_type6]
+Description="Keyboard - Polacca - Polacca (Sun Type 6/7)"
+Language=pl
+Label="pl (sun_type6)"
+
+[keyboard-pl-glagolica]
+Description="Keyboard - Polacca - Polacca (glagolica)"
+Language=pl
+Label="pl (glagolica)"
+
+[keyboard-pl-lefty]
+Description="Keyboard - Polacca - Polish (lefty)"
+Language=pl
+Label="pl (lefty)"
+
+[keyboard-ro]
+Description="Keyboard - Rumena"
+Language=ro
+Label=ro
+
+[keyboard-ro-std]
+Description="Keyboard - Rumena - Rumena (standard)"
+Language=ro
+Label="ro (std)"
+
+[keyboard-ro-winkeys]
+Description="Keyboard - Rumena - Rumena (Windows)"
+Language=ro
+Label="ro (winkeys)"
+
+[keyboard-ro-crh_dobruja]
+Description="Keyboard - Rumena - Tatar crimea (Dobruca Q)"
+Language=crh
+Label="crh (crh_dobruja)"
+
+[keyboard-ro-ergonomic]
+Description="Keyboard - Rumena - Rumena (Touchtype ergonomica)"
+Language=ro
+Label="ro (ergonomic)"
+
+[keyboard-ro-sun_type6]
+Description="Keyboard - Rumena - Rumena (Sun Type 6/7)"
+Language=ro
+Label="ro (sun_type6)"
+
