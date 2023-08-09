@@ -22,9 +22,6 @@ exec fcitx5
 # wallpaper
 # output * bg $HOME/Downloads/nord_minimal_cat.png fill
 
-# autotiling
-exec_always autotiling
-
 ###########
 # hotkeys #
 ###########
@@ -114,12 +111,19 @@ for_window [app_id="thunar"] floating enable
 for_window [app_id="lutris"] floating enable, resize set 1280 720
 for_window [class="steam"] floating enable
 for_window [class="dolphin-emu"] floating enable, resize set 960 720
-for_window [class="rars-Launch"] floating enable
 for_window [class="YouTube Music"] floating enable, resize set 1280 720
 
 # hide title bar and change border color
 default_border pixel 2
-client.focused "#d8dee9" "#d8dee9" "#ffffff" "#d8dee9"
+client.focused "#d8dee9" "#d8dee9" "#ffffff"
+#"#d8dee9"
+
+# Toggle the current focus between tiling and floating mode
+bindsym $mod+Shift+space floating toggle
+
+# horizontal or vertical split
+bindsym $mod+b splith
+bindsym $mod+v splitv
 
 #######################
 # input configuration #
