@@ -1,21 +1,34 @@
-# Created by Zap installer
-[ -f "${XDG_DATA_HOME:-$HOME/.local/share}/zap/zap.zsh" ] && source "${XDG_DATA_HOME:-$HOME/.local/share}/zap/zap.zsh"
-plug "zsh-users/zsh-autosuggestions"
-plug "zap-zsh/supercharge"
-plug "zap-zsh/zap-prompt"
-plug "zsh-users/zsh-syntax-highlighting"
+# Enable Powerlevel10k instant prompt
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
 
-# Load and initialise completion system
-autoload -Uz compinit
+# zsh history settings
+HISTSIZE=10000
+SAVEHIST=10000
+HISTFILE=~/.config/zsh/history
+
+# Basic auto/tab complete:
+autoload -U compinit
+zstyle ':completion:*' verbose no
+zmodload zsh/complist
 compinit
+_comp_options+=(globdots) # Include hidden files.
+
+# Enable Vi mode
+bindkey -v
+
+# preview directory's content with exa when completing cd
+zstyle ':fzf-tab:complete:cd:*' fzf-preview 'exa -1 --color=always $realpath'
 
 # Aliases
+alias ls="ls --color=auto --group-directories-first"
 alias la="ls -Al"
-alias neofetch="neofetch --source /home/leonardo/.config/neofetch/arch.txt"
+alias n="nnn"
+alias ..="cd .."
 alias gs="git status"
 alias ga="git add"
 alias gp="git push"
-alias n="nnn"
 
 # functions
 mkcd () {
@@ -25,5 +38,12 @@ mkcd () {
 gc () {
   git commit -m "$1"
 }
-# Enable starship shell
-eval "$(starship init zsh)"
+
+# Source plugins
+source ~/.config/zsh/zsh_plugins/fzf-tab/fzf-tab.zsh
+source ~/.config/zsh/zsh_plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.config/zsh/zsh_plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/.config/zsh/zsh_plugins/powerlevel10k/powerlevel10k.zsh-theme
+
+# To customize prompt, run `p10k configure` or edit ~/.config/zsh/.p10k.zsh.
+[[ ! -f ~/.config/zsh/.p10k.zsh ]] || source ~/.config/zsh/.p10k.zsh
