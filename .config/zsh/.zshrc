@@ -9,7 +9,9 @@ SAVEHIST=10000
 HISTFILE=~/.config/zsh/history
 
 # Basic auto/tab complete:
-autoload -U compinit
+# autoload -U compinit
+autoload -Uz compinit && compinit
+zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
 zstyle ':completion:*' verbose no
 zmodload zsh/complist
 compinit
