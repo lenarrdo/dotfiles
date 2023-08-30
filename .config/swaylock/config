@@ -14,9 +14,9 @@ indicator-thickness=20
 line-color=2C2D31
 ring-color=2C2D31
 inside-color=232326
-key-hl-color=ffffff
-separator-color=ffffff
-text-color=ffffff
+key-hl-color=FFFFFF
+separator-color=FFFFFF
+text-color=FFFFFF
 text-caps-lock-color=""
 
 line-ver-color=8FB573
@@ -26,8 +26,8 @@ text-ver-color=8FB573
 
 inside-clear-color=232326
 text-clear-color=FFFFFF
-ring-clear-color=ffffff
-line-clear-color=1f1d2e
+ring-clear-color=FFFFFF
+line-clear-color=1F1D2E
 
 inside-wrong-color=232326
 line-wrong-color=D74A3D
@@ -36,11 +36,7 @@ text-wrong-color=D74A3D
 
 bs-hl-color=EDEDED
 
-grace=2
-grace-no-mouse
-grace-no-touch
-
-datestr=%a%e %B
+datestr=%a %e %B
 timestr=%H:%M:%S
 
 fade-in=0.2
