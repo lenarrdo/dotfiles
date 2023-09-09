@@ -28,17 +28,22 @@ alias ls="ls --color=auto --group-directories-first"
 alias la="ls -Al"
 alias n="nnn"
 alias ..="cd .."
+alias wmconfig="nvim ~/.config/sway/config"
 alias gs="git status"
 alias ga="git add"
 alias gp="git push"
 
 # functions
-mkcd () {
+mkcd() {
   mkdir -p $1 && cd $1
 }
 
-gc () {
+gc() {
   git commit -m "$1"
+}
+
+bat() {
+  sudo bat-asus-battery threshold $1
 }
 
 # Source plugins

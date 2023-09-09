@@ -11,16 +11,18 @@
 ###########
 
 # monitor settings
-output eDP-1 mode 2880x1800@90.001Hz scale 2
-
-# night mode
-exec wlsunset -l 41.90 -L 12.49
+output eDP-1 mode 2880x1800@90Hz scale 2
+output DP-1 mode 1920x1080@240Hz scale 1
+output DP-3 mode 1920x1080@240Hz scale 1
 
 # startup apps
+exec wlsunset -l 45.43 -L 12.33
+exec mako
 exec fcitx5
+exec /usr/lib/kdeconnectd
 
 # wallpaper
-# output * bg $HOME/Downloads/nord_minimal_cat.png fill
+# output * bg ~/.local/wallpapers/sushi-switch.jpg fill
 
 ###########
 # hotkeys #
@@ -45,7 +47,7 @@ bindsym $mod+Shift+C exec qalculate-gtk
 bindsym $mod+Alt+L exec swaylock
 
 # start application launcher
-bindsym $mod+R exec rofi -show drun
+bindsym $mod+R exec ~/.config/rofi/launchers/type-2/launcher.sh
 
 # move and resize windows with mouse buttons
 floating_modifier $mod normal
@@ -53,8 +55,8 @@ floating_modifier $mod normal
 # reload the configuration file
 bindsym $mod+Shift+R reload
 
-# exit sway (logs you out of your Wayland session)
-bindsym $mod+Shift+E exec "swaymsg exit"
+# rofi power menu
+bindsym $mod+Shift+E exec ~/.config/rofi/powermenu/type-1/powermenu.sh
 
 # laptop shortcuts
 # F1, F2, F3
@@ -76,6 +78,10 @@ bindsym Ctrl+XF86MonBrightnessDown exec brightnessctl set 2%-
 
 # Screenshot
 bindsym Print exec grim -g "$(slurp)" - | wl-copy
+
+# disable laptop monitor when lid is closed
+bindswitch lid:on output eDP-1 disable
+bindswitch lid:off output eDP-1 enable
 
 #####################
 # window management #
@@ -122,8 +128,8 @@ client.focused "#d8dee9" "#d8dee9" "#ffffff"
 bindsym $mod+Shift+space floating toggle
 
 # horizontal or vertical split
-bindsym $mod+b splith
-bindsym $mod+v splitv
+bindsym $mod+x splith
+bindsym $mod+z splitv
 
 #######################
 # input configuration #
@@ -132,11 +138,17 @@ bindsym $mod+v splitv
 # keyboard
 input type:keyboard {
   xkb_layout it
-  xkb_options ctrl:nocaps
+  xkb_options ctrl:nocaps,shift:both_capslock_cancel
   repeat_rate 40
   repeat_delay 330
 
   # only because my mouse is detected as a keyboard for some reason
+  accel_profile "flat"
+  pointer_accel 0
+}
+
+# mouse
+input "1133:49288:Logitech_G_Pro_Wireless_Gaming_Mouse" {
   accel_profile "flat"
   pointer_accel 0
 }
