@@ -1,0 +1,23 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 40,
+
+  // Load modules
+  "include": ["~/.config/waybar/modules.json"],
+
+  "modules-left": ["clock"],
+  "modules-center": ["river/tags"],
+  "modules-right": ["group/system"],
+
+  "group/system": {
+    "orientation": "horizontal",
+    "modules": [
+      "pulseaudio",
+      "backlight",
+      "network",
+      "battery",
+      "tray"
+    ]
+  },
+}
