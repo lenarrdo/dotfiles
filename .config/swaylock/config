@@ -36,7 +36,7 @@ text-wrong-color=D74A3D
 
 bs-hl-color=EDEDED
 
-datestr=%a %e %B
+datestr=%a %d %B
 timestr=%H:%M:%S
 
 fade-in=0.2
