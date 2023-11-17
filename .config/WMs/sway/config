@@ -39,8 +39,8 @@ bindsym $mod+F exec firefox
 bindsym $mod+E exec thunar
 bindsym $mod+Shift+C exec qalculate-gtk
 bindsym $mod+Alt+L exec swaylock
-bindsym $mod+R exec ~/.config/rofi/launchers/type-2/launcher.sh
-bindsym $mod+Shift+E exec ~/.config/rofi/powermenu/type-1/powermenu.sh
+bindsym $mod+R exec ~/.config/rofi/launcher/launcher.sh
+bindsym $mod+Shift+E exec ~/.config/rofi/powermenu/powermenu.sh
 bindsym Print exec grim -g "$(slurp)" - | wl-copy
 bindsym Shift+Print exec grim -g "$(slurp)" - | swappy -f -
 bindsym $mod+Shift+R reload
