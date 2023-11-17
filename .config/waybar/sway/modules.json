@@ -1,0 +1,68 @@
+{
+  "sway/workspaces": {
+    "disable-scroll": true,
+    "all-outputs": true,
+    "format": "{icon}",
+    "persistent_workspaces": { "1": [], "2": [], "3": [], "4": [], "3": [], "4": [], "5": [], "6": [], "7": [], },
+    "format-icons": { "1": "一", "2": "二", "3": "三", "4": "四", "5": "五", "6": "六", "7": "七", "8": "八", "9": "九", "10": "十", }
+  },
+  "sway/scratchpad": {
+    "format": "{icon}",
+    "show-empty": false,
+    "format-icons": ["〇"],
+    "tooltip": true,
+    "tooltip-format": "{app}: {title}"
+  },
+  "tray": {
+    "spacing": 10
+  },
+  "clock": {
+    "format": "{:%a %d %b %Y | %H:%M}"
+  },
+  "backlight": {
+    "format": "{icon} {percent}% | ",
+    "format-icons": ["", "", "", "", "", "", "", "", ""]
+  },
+  "battery": {
+    "states": {
+      "good": 80,
+      "warning": 30,
+      "critical": 15
+    },
+    "format": "{icon} | ",
+    "format-charging": "{capacity}%  | ",
+    "format-plugged": "{capacity}%  | ",
+    "format-alt": "{icon} {capacity}%",
+    "format-icons": ["󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"]
+  },
+  "network": {
+    "format-wifi": "󰖩 {essid} | ",
+    "format-ethernet": "󰌗 | ",
+    "tooltip-format": "{ifname} via {gwaddr} ",
+    "format-linked": "{ifname} (No IP) ",
+    "format-disconnected": "󰖪 Disconnected | ",
+    "format-alt": "{ifname}: {ipaddr}/{cidr} | "
+  },
+  "pulseaudio": {
+    "scroll-step": 5,
+    "format": "{icon} {volume}% | ",
+    "format-bluetooth": "{volume}% {icon} {format_source}",
+    "format-bluetooth-muted": " {icon} {format_source}",
+    "format-muted": " {format_source}",
+    "format-source": "{volume}% ",
+    "format-source-muted": " ",
+    "format-icons": {
+      "headphone": " ",
+      "hands-free": "",
+      "headset": "",
+      "phone": "",
+      "portable": "",
+      "car": "",
+      "default": ["", "", " "]
+    },
+    "on-click": "pavucontrol"
+  },
+  "tray": {
+    "spacing": 10
+  }
+}
