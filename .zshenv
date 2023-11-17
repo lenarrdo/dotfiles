@@ -1,9 +1,5 @@
 # Store zsh config files in ~/.config/zsh/
 export ZDOTDIR=$HOME/.config/zsh
-export HISTFILE=$HOME/.config/zsh/.zsh_history
-
-# Store .npm in ~/.config/npm/
-export NPM_CONFIG_USERCONFIG="$XDG_CONFIG_HOME/npm/npmrc"
 
 # Set XDG Paths
 export XDG_DATA_HOME="$HOME/.local/share/"
@@ -35,11 +31,6 @@ export MOZ_WEBRENDER=1
 export MOZ_ENABLE_WAYLAND=1
 export ANKI_WAYLAND=1
 export QT_QPA_PLATFORM=wayland
-
-# NNN Related
-export NNN_USE_EDITOR=1
-export NNN_SHOW_HIDDEN=1
-export NNN_OPTS="eH"
 
 # Dark theme
 export GTK_THEME=Adwaita:dark
