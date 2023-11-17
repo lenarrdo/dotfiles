@@ -29,21 +29,19 @@ alias la="ls -Al"
 alias n="nnn"
 alias ..="cd .."
 alias wmconfig="nvim ~/.config/sway/config"
+alias lg="lazygit"
 alias gs="git status"
 alias ga="git add"
 alias gp="git push"
+alias gc="git commit -m"
+alias bat="sudo bat-asus-battery threshold"
+alias batp="sudo bat-asus-battery persist"
+alias tssh="ssh u0_a240@192.168.1.184 -p8022"
+alias MMO="cd ~/Games/PokeMMO/ && ./PokeMMO.sh"
 
 # functions
 mkcd() {
   mkdir -p $1 && cd $1
-}
-
-gc() {
-  git commit -m "$1"
-}
-
-bat() {
-  sudo bat-asus-battery threshold $1
 }
 
 # Source plugins
