@@ -10,19 +10,20 @@
 # general #
 ###########
 
-# monitor settings
-output eDP-1 mode 2880x1800@90Hz scale 2
-output DP-1 mode 1920x1080@240Hz scale 1
-output DP-3 mode 1920x1080@240Hz scale 1
-
 # startup apps
-exec wlsunset -l 45.43 -L 12.33
+exec kanshi
+exec gammastep -c ~/.config/gammastep/gammastep.ini
 exec mako
 exec fcitx5
-exec /usr/lib/kdeconnectd
+exec firefox
+exec discord
+exec thunderbird
+exec swaymsg "workspace 3; exec alacritty; workspace 1"
 
-# wallpaper
-# output * bg ~/.local/wallpapers/sushi-switch.jpg fill
+# status bar
+bar {
+  swaybar_command waybar
+}
 
 ###########
 # hotkeys #
@@ -33,30 +34,17 @@ set $mod Mod4
 
 # open terminal
 bindsym $mod+Return exec alacritty
-
-# open firefox
 bindsym $mod+F exec firefox
-
-# open file manager
 bindsym $mod+E exec thunar
-
-# open calculator
 bindsym $mod+Shift+C exec qalculate-gtk
-
-# lock screen
 bindsym $mod+Alt+L exec swaylock
-
-# start application launcher
 bindsym $mod+R exec ~/.config/rofi/launchers/type-2/launcher.sh
-
-# move and resize windows with mouse buttons
-floating_modifier $mod normal
-
-# reload the configuration file
+bindsym $mod+Shift+E exec ~/.config/rofi/powermenu/type-1/powermenu.sh
+bindsym Print exec grim -g "$(slurp)" - | wl-copy
+bindsym Shift+Print exec grim -g "$(slurp)" - | swappy -f -
 bindsym $mod+Shift+R reload
 
-# rofi power menu
-bindsym $mod+Shift+E exec ~/.config/rofi/powermenu/type-1/powermenu.sh
+floating_modifier $mod normal
 
 # laptop shortcuts
 # F1, F2, F3
@@ -71,17 +59,7 @@ bindsym XF86MonBrightnessDown exec brightnessctl set 5%-
 bindsym Ctrl+XF86MonBrightnessUp exec brightnessctl set 2%+
 bindsym Ctrl+XF86MonBrightnessDown exec brightnessctl set 2%-
 
-# F6, F10, F12
-# bindsym XF86TouchpadToggle
-# bindsym XF86WebCam
-# bindsym XF86Launch2
-
-# Screenshot
-bindsym Print exec grim -g "$(slurp)" - | wl-copy
-
-# disable laptop monitor when lid is closed
-bindswitch lid:on output eDP-1 disable
-bindswitch lid:off output eDP-1 enable
+# F6: XF86TouchpadToggle; F10: XF86WebCam; F12: XF86Launch2
 
 #####################
 # window management #
@@ -96,7 +74,7 @@ bindsym $mod+J focus down
 bindsym $mod+K focus up
 bindsym $mod+L focus right
 
-# move the focused window with the same, but add Shift
+# move the focused window
 bindsym $mod+Shift+H move left
 bindsym $mod+Shift+J move down
 bindsym $mod+Shift+K move up
@@ -115,46 +93,39 @@ bindsym $mod+Ctrl+L resize grow width 40px
 for_window [app_id="qalculate-gtk"] floating enable
 for_window [app_id="thunar"] floating enable
 for_window [app_id="lutris"] floating enable, resize set 1280 720
+for_window [app_id="pavucontrol"] floating enable, resize set 720 720
 for_window [class="steam"] floating enable
 for_window [class="dolphin-emu"] floating enable, resize set 960 720
 for_window [class="YouTube Music"] floating enable, resize set 1280 720
 
 # hide title bar and change border color
 default_border pixel 2
-client.focused "#d8dee9" "#d8dee9" "#ffffff"
-#"#d8dee9"
+client.focused "#d8dee9" "#d8dee9" "#ffffff" "#d8dee9"
 
 # Toggle the current focus between tiling and floating mode
-bindsym $mod+Shift+space floating toggle
+bindsym $mod+V floating toggle
 
 # horizontal or vertical split
-bindsym $mod+x splith
-bindsym $mod+z splitv
+bindsym $mod+a splitv
+bindsym $mod+s splith
 
 #######################
 # input configuration #
 #######################
 
-# keyboard
 input type:keyboard {
   xkb_layout it
-  xkb_options ctrl:nocaps,shift:both_capslock_cancel
-  repeat_rate 40
-  repeat_delay 330
+  xkb_options shift:both_capslock_cancel
+  repeat_rate 50
+  repeat_delay 300
+}
 
-  # only because my mouse is detected as a keyboard for some reason
+input "5426:138:Razer_Razer_Viper_Mini" {
   accel_profile "flat"
   pointer_accel 0
 }
 
-# mouse
-input "1133:49288:Logitech_G_Pro_Wireless_Gaming_Mouse" {
-  accel_profile "flat"
-  pointer_accel 0
-}
-
-# touchpad
-input "1267:12737:ASUE120C:00_04F3:31C1_Touchpad" {
+input type:touchpad {
   dwt enabled
   tap enabled
   natural_scroll enabled
@@ -190,6 +161,26 @@ bindsym $mod+Shift+8 move container to workspace number 8
 bindsym $mod+Shift+9 move container to workspace number 9
 bindsym $mod+Shift+0 move container to workspace number 10
 
+# launch programs on specific workspaces
+assign [app_id="firefox"] workspace number 2
+assign [class="discord"] workspace number 4
+assign [app_id="thunderbird"] workspace number 5
+
+# dual monitor setup
+set $fm "ASUSTek COMPUTER INC VG259QM M3LMQS250463"
+set $sm "AOC 2590G5 0x00001DD4"
+set $lm "eDP-1"
+
+workspace 1 output $lm $fm
+workspace 2 output $lm $fm
+workspace 3 output $lm $fm
+workspace 4 output $lm $fm
+workspace 5 output $lm $fm
+workspace 6 output $lm $fm
+workspace 7 output $lm $fm
+workspace 8 output $sm
+workspace 9 output $sm
+
 ###############
 # scratchpads #
 ###############
@@ -199,25 +190,5 @@ bindsym $mod+Shift+minus move scratchpad
 
 # show the next scratchpad window or hide the focused scratchpad window.
 bindsym $mod+minus scratchpad show
-
-##############
-# status bar #
-##############
-
-bar {
-  position top
-
-  swaybar_command waybar
-
-# When the status_command prints a new line to stdout, swaybar updates.
-# The default just shows the current date and time.
-  status_command while date +'%Y-%m-%d %I:%M:%S %p'; do sleep 1; done
-
-  colors {
-    statusline #ffffff
-    background #323232
-    inactive_workspace #32323200 #32323200 #5c5c5c
-  }
-}
 
 include /etc/sway/config.d/*
