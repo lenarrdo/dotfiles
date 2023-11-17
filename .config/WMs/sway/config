@@ -18,6 +18,7 @@ exec fcitx5
 exec firefox
 exec discord
 exec thunderbird
+exec steam
 exec swaymsg "workspace 3; exec alacritty; workspace 1"
 
 # status bar
@@ -165,6 +166,7 @@ bindsym $mod+Shift+0 move container to workspace number 10
 assign [app_id="firefox"] workspace number 2
 assign [class="discord"] workspace number 4
 assign [app_id="thunderbird"] workspace number 5
+assign [class="steam"] workspace number 6
 
 # dual monitor setup
 set $fm "ASUSTek COMPUTER INC VG259QM M3LMQS250463"
