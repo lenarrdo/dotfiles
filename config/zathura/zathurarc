@@ -1,1 +1,4 @@
+include ./themes/mocha.conf
+
+set recolor true
 map <C-i> recolor
