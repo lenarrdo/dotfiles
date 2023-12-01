@@ -1,0 +1,201 @@
+#
+#     |\      _,,,---,,_
+#     /,`.-'`'    -.  ;-;;,_
+#    |,4-  ) )-,_. ,\ (  `'-'
+#   '---''(_/--'  `-'\_)
+#
+# Sway config file
+
+###########
+# general #
+###########
+
+# startup apps
+exec kanshi
+exec gammastep -c ~/.config/gammastep/gammastep.ini
+exec mako
+exec fcitx5
+exec firefox
+exec discord
+exec thunderbird
+exec steam
+exec swaymsg "workspace 3; exec kitty; workspace 1"
+
+# status bar
+bar {
+  swaybar_command waybar
+}
+
+# wallpaper
+output "*" bg ./wallpapers/evening-sky.png fill
+
+###########
+# hotkeys #
+###########
+
+# mod key (Mod1 = Alt)
+set $mod Mod4
+
+# open terminal
+bindsym $mod+Return exec kitty
+bindsym $mod+F exec firefox
+bindsym $mod+E exec thunar
+bindsym $mod+Shift+C exec qalculate-gtk
+bindsym $mod+Alt+L exec swaylock
+bindsym $mod+R exec ~/.config/rofi/launcher/launcher.sh
+bindsym $mod+Shift+E exec ~/.config/rofi/powermenu/powermenu.sh
+bindsym Print exec grim -g "$(slurp)" - | wl-copy
+bindsym Shift+Print exec grim -g "$(slurp)" - | swappy -f -
+bindsym $mod+Shift+R reload
+
+floating_modifier $mod normal
+
+# laptop shortcuts
+# F1, F2, F3
+bindsym XF86AudioRaiseVolume exec pactl -- set-sink-volume 0 +5%
+bindsym XF86AudioLowerVolume exec pactl -- set-sink-volume 0 -5%
+bindsym XF86AudioMute exec pactl -- set-sink-mute @DEFAULT_SINK@ toggle
+bindsym XF86AudioMicMute exec pactl set-source-mute @DEFAULT_SOURCE@ toggle
+
+# F4, F5
+bindsym XF86MonBrightnessUp exec brightnessctl set 5%+
+bindsym XF86MonBrightnessDown exec brightnessctl set 5%-
+bindsym Ctrl+XF86MonBrightnessUp exec brightnessctl set 2%+
+bindsym Ctrl+XF86MonBrightnessDown exec brightnessctl set 2%-
+
+# F6: XF86TouchpadToggle; F10: XF86WebCam; F12: XF86Launch2
+
+#####################
+# window management #
+#####################
+
+# kill focused window
+bindsym $mod+Q kill
+
+# move your focus around
+bindsym $mod+H focus left
+bindsym $mod+J focus down
+bindsym $mod+K focus up
+bindsym $mod+L focus right
+
+# move the focused window
+bindsym $mod+Shift+H move left
+bindsym $mod+Shift+J move down
+bindsym $mod+Shift+K move up
+bindsym $mod+Shift+L move right
+
+# make the current focus fullscreen
+bindsym $mod+Shift+F fullscreen
+
+# change window dimensions with keyboard
+bindsym $mod+Left resize shrink width 120px
+bindsym $mod+Down resize grow height 120px
+bindsym $mod+Up resize shrink height 120px
+bindsym $mod+Right resize grow width 120px
+
+# programs that should start in floating mode
+for_window [app_id="qalculate-gtk"] floating enable
+for_window [app_id="thunar"] floating enable
+for_window [app_id="lutris"] floating enable, resize set 1280 720
+for_window [app_id="pavucontrol"] floating enable, resize set 720 720
+for_window [class="dolphin-emu"] floating enable, resize set 960 720
+for_window [class="YouTube Music"] floating enable, resize set 1280 720
+
+# hide title bar and change border color
+default_border pixel 2
+client.focused "#B4BEFE" "#B4BEFE" "#ffffff" "#B4BEFE"
+
+# Toggle the current focus between tiling and floating mode
+bindsym $mod+V floating toggle
+
+# horizontal or vertical split
+bindsym $mod+a splitv
+bindsym $mod+s splith
+
+#######################
+# input configuration #
+#######################
+
+input type:keyboard {
+  xkb_layout it
+  repeat_rate 50
+  repeat_delay 300
+}
+
+input "1:1:AT_Translated_Set_2_keyboard" {
+  xkb_options shift:both_capslock_cancel
+}
+
+input "5426:138:Razer_Razer_Viper_Mini" {
+  accel_profile "flat"
+  pointer_accel 0
+}
+
+input type:touchpad {
+  dwt enabled
+  tap enabled
+  natural_scroll enabled
+  middle_emulation enabled
+  scroll_factor 0.5
+}
+
+##############
+# workspaces #
+##############
+
+# switch to workspace
+bindsym $mod+1 workspace number 1
+bindsym $mod+2 workspace number 2
+bindsym $mod+3 workspace number 3
+bindsym $mod+4 workspace number 4
+bindsym $mod+5 workspace number 5
+bindsym $mod+6 workspace number 6
+bindsym $mod+7 workspace number 7
+bindsym $mod+8 workspace number 8
+bindsym $mod+9 workspace number 9
+bindsym $mod+0 workspace number 10
+
+# move focused container to workspace
+bindsym $mod+Shift+1 move container to workspace number 1
+bindsym $mod+Shift+2 move container to workspace number 2
+bindsym $mod+Shift+3 move container to workspace number 3
+bindsym $mod+Shift+4 move container to workspace number 4
+bindsym $mod+Shift+5 move container to workspace number 5
+bindsym $mod+Shift+6 move container to workspace number 6
+bindsym $mod+Shift+7 move container to workspace number 7
+bindsym $mod+Shift+8 move container to workspace number 8
+bindsym $mod+Shift+9 move container to workspace number 9
+bindsym $mod+Shift+0 move container to workspace number 10
+
+# launch programs on specific workspaces
+assign [app_id="firefox"] workspace number 2
+assign [class="discord"] workspace number 4
+assign [app_id="thunderbird"] workspace number 5
+assign [instance="steamwebhelper"] workspace number 6
+
+# dual monitor setup
+set $fm "ASUSTek COMPUTER INC VG259QM M3LMQS250463"
+set $sm "AOC 2590G5 0x00001DD4"
+set $lm "eDP-1"
+
+workspace 1 output $lm $fm
+workspace 2 output $lm $fm
+workspace 3 output $lm $fm
+workspace 4 output $lm $fm
+workspace 5 output $lm $fm
+workspace 6 output $lm $fm
+workspace 7 output $lm $fm
+workspace 8 output $sm
+workspace 9 output $sm
+
+###############
+# scratchpads #
+###############
+
+# move the currently focused window to the scratchpad
+bindsym $mod+Shift+minus move scratchpad
+
+# show the next scratchpad window or hide the focused scratchpad window.
+bindsym $mod+minus scratchpad show
+
+include /etc/sway/config.d/*
