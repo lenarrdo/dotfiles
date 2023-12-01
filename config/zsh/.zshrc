@@ -17,15 +17,17 @@ zmodload zsh/complist
 compinit
 _comp_options+=(globdots) # Include hidden files.
 
-# Enable Vi mode
+# Bindings
 bindkey -v
+bindkey "^H" backward-delete-word
 
 # preview directory's content with exa when completing cd
 zstyle ':fzf-tab:complete:cd:*' fzf-preview 'exa -1 --color=always $realpath'
 
 # Aliases
 alias ls="ls --color=auto --group-directories-first"
-alias la="ls -Al"
+# alias la="ls -AlvF"
+alias la="exa --group-directories-first --almost-all --long --icons=always"
 alias n="nnn"
 alias ..="cd .."
 alias wmconfig="nvim ~/.config/sway/config"
