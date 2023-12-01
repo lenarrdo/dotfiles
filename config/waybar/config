@@ -1,13 +1,13 @@
 {
   "layer": "top",
   "position": "top",
-  "height": 40,
+  "height": 30,
 
   // Load modules
   "include": ["~/.config/waybar/modules.json"],
 
   "modules-left": ["clock"],
-  "modules-center": ["river/tags"],
+  "modules-center": ["sway/workspaces"],
   "modules-right": ["group/system"],
 
   "group/system": {
@@ -15,9 +15,9 @@
     "modules": [
       "pulseaudio",
       "backlight",
-      "network",
       "battery",
-      "tray"
+      "network"
+      // "tray"
     ]
   },
 }
